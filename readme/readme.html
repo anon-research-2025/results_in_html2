@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script type="text/javascript"
+        src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Readme</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<style>
+    a {
+      color: #007bff; /* Link color */
+      text-decoration: none; /* No underline */
+    }
+
+    span.putBar {
+      border-top: 1px solid #000000;
+    }
+
+
+    a:hover {
+      text-decoration: underline; /* Underline on hover for interactivity */
+    }
+
+    #styled-table {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 20%; /* Full height for vertical centering */
+      padding: 20px; /* Padding inside the rounded container */
+      border: 2px solid #ccc; /* Border surrounding the div */
+      border-radius: 12px; /* Rounded corners */
+      background-color: #f9f9f9; /* Light background for contrast */
+      width: 80%; /* Adjust width as needed */
+      max-width: 600px; /* Maximum width for larger screens */
+      margin: auto; /* Center the div horizontally */
+    }
+    
+    #styled-table table {
+      border-collapse: collapse;
+      width: 100%; /* Full width for the table */
+      text-align: left;
+      font-family: Arial, sans-serif;
+      font-size: 16px;
+    }
+    
+    #styled-table td {
+      padding: 10px; /* Consistent padding */
+      border-bottom: 1px solid #ddd; /* Light border for separation */
+    }
+    
+    #styled-table td:first-child {
+      font-weight: bold; /* Bold for the first column */
+    }
+    
+    #styled-table table tr:last-child td {
+        border-bottom: none; /* Removes the bottom border of the last row */
+    }
+
+    .light-hr {
+        width: 40%; /* Width of the horizontal line */
+        margin: 20px auto; /* Center it horizontally with spacing above and below */
+        border: none; /* Remove default border */
+        height: 2px; /* Thickness of the line */
+        background-color: #e0e0e0; /* Light gray color */
+    }
+</style>
+<body>
+    <h1><center>Readme</center></h1>
+    <div id="nav" style="display: flex; justify-content: center;">
+      We present each motif discovered in the following format: <br><br>
+    </div>
+    <div class="container">
+        <!-- Image Set 1 -->
+        <div class="sliderGroup">
+            <div class="imageTextContainer">
+                <div id=imageContainer1 class="imageContainer">
+                    <img id="img1" src="pairs_motifs/3_3/4.png" alt="pattern 3 and 3 are 0 nucleotides apart">
+                </div>
+                <div id="textContainer1" class="textContainer">
+                    <p id="text1_1" class="imageText"></p>
+                    <p id="text1_2" class="imageText"># occurrences: 12</p>
+                    <p id="text1_3" class="imageText">meme_link</p>
+                    <p id="text1_4" class="imageText"><a href="#" onclick="openHighlightPage('pairs_motifs/3_3/4.csv')">string highlight</a></p>
+                    <p id="text1_5" class="imageText"><a href="#2" onclick="openHtmlWindow('pairs_motifs/3_3/mode.png', 'P-value: 1.9e-103<br><br><p style=\'color:#EC771B\'>Cluster 1: Occuring approximately 19% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 61-bp in between pattern 3 and 3</p><p style=\'color:#3E359C\'>Cluster 2: Occuring approximately 24% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 38-bp in between pattern 3 and 3</p><p style=\'color:#12802E\'>Cluster 3: Occuring approximately 57% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14-bp in between pattern 3 and 3</p>')">clustered view</a></p>
+                </div>
+            </div>
+            <div id=slideContainer1 class="sliderContainer">
+                <!--  <span>Select Image:</span> -->
+                <input id="valR1" type="range" min="0" max="14" value="0">
+                <span id="range1">Image 1</span>
+            </div>
+        </div>
+    </div>
+
+    <div style="width: 25%; font-size: 0.8em; margin: 0 auto; justify-content: center; color:grey;">
+        A set of pair-motifs discovered from trascription factor STAT1 dataset <a href="https://jaspar.elixir.no/matrix/MA0137.3">(JASPAR MA0137.3)</a>.
+    </div><br><br>
+    <div id="nav" style="display: flex; justify-content: center;">
+      where each of the button on the right side are:
+    </div>
+    <br>
+
+    <div id="styled-table">
+        <table>
+          <tbody>
+            <tr>
+              <td><span class="putBar">contribution</span></td>
+              <td>The average Banzhaf index estimated across different occurrences of the filter(s) in the dataset.</td>
+            </tr>
+            <tr>
+              <td>#Occurrences</td>
+              <td>The number of sequences included in the multiple sequence alignment used to estimate the position weight matrix (PWM).</td>
+            </tr>
+            <tr>
+              <td>MEME link</td>
+              <td>The text file of the PWM that can be parsed by software in <a href="https://meme-suite.org/meme/">MEME-suite</a>.</td>
+            </tr>
+            <tr>
+              <td>String highlight</td>
+              <td>Shows the highlighted part of the string that is displayed in the PWM in the dataset.</td>
+            </tr>
+            </tbody>
+        </table>
+      </div>
+
+    <br><br>
+    <br><br>
+    <br><br>
+    <script src="script.js"></script>
+    <!-- Modal Structure -->
+    <div id="highlightModal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeModal()">&times;</span>
+            <div id="highlightedSequences"></div>
+        </div>
+    </div>
+
+    <!-- Modal Structure for clustering -->
+    <div id="highlightModal_cluster">
+        <div id="highlightContent">
+            <span class="close" onclick="closeModal_cluster()">&times;</span>
+            <div class="modal-column">
+                <img id="modalImage" src="" alt="Image">
+            </div>
+            <div class="modal-column">
+                <p id="modalText">This is placeholder text. You can replace it with dynamic content as needed.</p>
+            </div>
+        </div>
+    </div>
+
+    <div >
+    </div>
+
+</body>
+</html>

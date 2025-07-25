@@ -1,0 +1,1792 @@
+{
+    "mode_23": {
+        "pwms": [
+            "quadruplet_motifs/6_13_13_16/9_30_19.png"
+        ],
+        "labels": [
+            "pattern 6 and 13 are 9 nucleotides apart<br>pattern 13 and 13 are 30 nucleotides apart<br>pattern 13 and 16 are 19 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/6_13_13_16/box_9_30_19.png')\"><span class=\"putBar\">contribution</span>: 0.15</a>",
+                "# occurrences: 22",
+                "<a href=\"singleton_motifs/6_13_13_16/9_30_19.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/6_13_13_16/9_30_19.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('TTCCGGGGCGCACAnTGCCGCAAACAGGAAGTGTGGCGCTTAACGGGAACCGGCGCCCGGAAnGTCAGCGTGTGAAGTAGGCGCTGGCAACGCG')\">consensus string</a>",
+                "--"
+            ]
+        ]
+    },
+    "mode_65": {
+        "pwms": [
+            "quadruplet_motifs/1_4_8_16/19_36_8.png",
+            "quadruplet_motifs/1_4_8_16/19_36_17.png"
+        ],
+        "labels": [
+            "pattern 1 and 4 are 19 nucleotides apart<br>pattern 4 and 8 are 36 nucleotides apart<br>pattern 8 and 16 are 8 nucleotides apart<br>",
+            "pattern 1 and 4 are 19 nucleotides apart<br>pattern 4 and 8 are 36 nucleotides apart<br>pattern 8 and 16 are 17 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_4_8_16/box_19_36_8.png')\"><span class=\"putBar\">contribution</span>: 0.06</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/1_4_8_16/19_36_8.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/1_4_8_16/19_36_8.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CTTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGAT')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_4_8_16/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_4_8_16/box_19_36_17.png')\"><span class=\"putBar\">contribution</span>: 0.06</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/1_4_8_16/19_36_17.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/1_4_8_16/19_36_17.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CTTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGATGGCGATGAG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_4_8_16/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_55": {
+        "pwms": [
+            "quadruplet_motifs/1_4_13_16/19_29_15.png",
+            "quadruplet_motifs/1_4_13_16/19_29_24.png"
+        ],
+        "labels": [
+            "pattern 1 and 4 are 19 nucleotides apart<br>pattern 4 and 13 are 29 nucleotides apart<br>pattern 13 and 16 are 15 nucleotides apart<br>",
+            "pattern 1 and 4 are 19 nucleotides apart<br>pattern 4 and 13 are 29 nucleotides apart<br>pattern 13 and 16 are 24 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_4_13_16/box_19_29_15.png')\"><span class=\"putBar\">contribution</span>: 0.07</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/1_4_13_16/19_29_15.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/1_4_13_16/19_29_15.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CTTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGAT')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_4_13_16/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_4_13_16/box_19_29_24.png')\"><span class=\"putBar\">contribution</span>: 0.07</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/1_4_13_16/19_29_24.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/1_4_13_16/19_29_24.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CTTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGATGGCGATGAG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_4_13_16/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_47": {
+        "pwms": [
+            "quadruplet_motifs/4_6_16_16/36_8_0.png",
+            "quadruplet_motifs/4_6_16_16/63_8_0.png"
+        ],
+        "labels": [
+            "pattern 4 and 6 are 36 nucleotides apart<br>pattern 6 and 16 are 8 nucleotides apart<br>pattern 16 and 16 are 0 nucleotides apart<br>",
+            "pattern 4 and 6 are 63 nucleotides apart<br>pattern 6 and 16 are 8 nucleotides apart<br>pattern 16 and 16 are 0 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_6_16_16/box_36_8_0.png')\"><span class=\"putBar\">contribution</span>: 0.08</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/4_6_16_16/36_8_0.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/4_6_16_16/36_8_0.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('GCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGATGGCGATGAG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_6_16_16/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_6_16_16/box_63_8_0.png')\"><span class=\"putBar\">contribution</span>: 0.08</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/4_6_16_16/63_8_0.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/4_6_16_16/63_8_0.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('TTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGATGGCGATGAG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_6_16_16/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_18": {
+        "pwms": [
+            "quadruplet_motifs/2_2_2_13/6_48_31.png"
+        ],
+        "labels": [
+            "pattern 2 and 2 are 6 nucleotides apart<br>pattern 2 and 2 are 48 nucleotides apart<br>pattern 2 and 13 are 31 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/2_2_2_13/box_6_48_31.png')\"><span class=\"putBar\">contribution</span>: 0.16</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/2_2_2_13/6_48_31.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/2_2_2_13/6_48_31.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('AACCCGGAACCACTTAGGCGACAATTCCCACCCACGACGACGAAAGAAAACAGGGAACAGGAAGTGCTGGGTGAACCGGAAGTCGAGAGGCGGTGCACACCCGTCGCGCATGCGCAAACAC')\">consensus string</a>",
+                "--"
+            ]
+        ]
+    },
+    "mode_61": {
+        "pwms": [
+            "quadruplet_motifs/4_7_16_16/20_51_0.png",
+            "quadruplet_motifs/4_7_16_16/28_43_0.png"
+        ],
+        "labels": [
+            "pattern 4 and 7 are 20 nucleotides apart<br>pattern 7 and 16 are 51 nucleotides apart<br>pattern 16 and 16 are 0 nucleotides apart<br>",
+            "pattern 4 and 7 are 28 nucleotides apart<br>pattern 7 and 16 are 43 nucleotides apart<br>pattern 16 and 16 are 0 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_7_16_16/box_20_51_0.png')\"><span class=\"putBar\">contribution</span>: 0.07</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/4_7_16_16/20_51_0.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/4_7_16_16/20_51_0.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('TTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGATGGCGATGAG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_7_16_16/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_7_16_16/box_28_43_0.png')\"><span class=\"putBar\">contribution</span>: 0.06</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/4_7_16_16/28_43_0.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/4_7_16_16/28_43_0.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('TTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGATGGCGATGAG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_7_16_16/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_19": {
+        "pwms": [
+            "quadruplet_motifs/2_6_13_13/23_9_30.png"
+        ],
+        "labels": [
+            "pattern 2 and 6 are 23 nucleotides apart<br>pattern 6 and 13 are 9 nucleotides apart<br>pattern 13 and 13 are 30 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/2_6_13_13/box_23_9_30.png')\"><span class=\"putBar\">contribution</span>: 0.15</a>",
+                "# occurrences: 22",
+                "<a href=\"singleton_motifs/2_6_13_13/23_9_30.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/2_6_13_13/23_9_30.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCACCGGAAAGCTGCCGTCAGGCGCTTCCnGCTTCCGGGGCGCACAnTGCCGCAAACAGGAAGTGTGGCGCTTAACGGGAACCGGCGCCCGGAAnGTC')\">consensus string</a>",
+                "--"
+            ]
+        ]
+    },
+    "mode_22": {
+        "pwms": [
+            "quadruplet_motifs/2_6_13_16/23_9_58.png",
+            "quadruplet_motifs/2_6_13_16/23_48_19.png"
+        ],
+        "labels": [
+            "pattern 2 and 6 are 23 nucleotides apart<br>pattern 6 and 13 are 9 nucleotides apart<br>pattern 13 and 16 are 58 nucleotides apart<br>",
+            "pattern 2 and 6 are 23 nucleotides apart<br>pattern 6 and 13 are 48 nucleotides apart<br>pattern 13 and 16 are 19 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/2_6_13_16/box_23_9_58.png')\"><span class=\"putBar\">contribution</span>: 0.14</a>",
+                "# occurrences: 22",
+                "<a href=\"singleton_motifs/2_6_13_16/23_9_58.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/2_6_13_16/23_9_58.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCACCGGAAAGCTGCCGTCAGGCGCTTCCnGCTTCCGGGGCGCACAnTGCCGCAAACAGGAAGTGTGGCGCTTAACGGGAACCGGCGCCCGGAAnGTCAGCGTGTGAAGTAGGCGCTGGCAACGCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/2_6_13_16/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/2_6_13_16/box_23_48_19.png')\"><span class=\"putBar\">contribution</span>: 0.16</a>",
+                "# occurrences: 22",
+                "<a href=\"singleton_motifs/2_6_13_16/23_48_19.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/2_6_13_16/23_48_19.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCACCGGAAAGCTGCCGTCAGGCGCTTCCnGCTTCCGGGGCGCACAnTGCCGCAAACAGGAAGTGTGGCGCTTAACGGGAACCGGCGCCCGGAAnGTCAGCGTGTGAAGTAGGCGCTGGCAACGCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/2_6_13_16/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_12": {
+        "pwms": [
+            "quadruplet_motifs/1_1_4_8/46_4_5.png"
+        ],
+        "labels": [
+            "pattern 1 and 1 are 46 nucleotides apart<br>pattern 1 and 4 are 4 nucleotides apart<br>pattern 4 and 8 are 5 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_1_4_8/box_46_4_5.png')\"><span class=\"putBar\">contribution</span>: 0.21</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/1_1_4_8/46_4_5.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/1_1_4_8/46_4_5.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CTTCCGGAAGAAGTCGGCCCTCCGAACCAGGAAGTGAAGCGATAAGACGCACGGTGTTCTGGGAGGAGTTACGCAGGCAGGGTTGTGGTTG')\">consensus string</a>",
+                "--"
+            ]
+        ]
+    },
+    "mode_64": {
+        "pwms": [
+            "quadruplet_motifs/1_4_16_16/19_53_0.png"
+        ],
+        "labels": [
+            "pattern 1 and 4 are 19 nucleotides apart<br>pattern 4 and 16 are 53 nucleotides apart<br>pattern 16 and 16 are 0 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_4_16_16/box_19_53_0.png')\"><span class=\"putBar\">contribution</span>: 0.06</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/1_4_16_16/19_53_0.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/1_4_16_16/19_53_0.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CTTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGATGGCGATGAG')\">consensus string</a>",
+                "--"
+            ]
+        ]
+    },
+    "mode_13": {
+        "pwms": [
+            "quadruplet_motifs/2_13_13_13/9_49_27.png"
+        ],
+        "labels": [
+            "pattern 2 and 13 are 9 nucleotides apart<br>pattern 13 and 13 are 49 nucleotides apart<br>pattern 13 and 13 are 27 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/2_13_13_13/box_9_49_27.png')\"><span class=\"putBar\">contribution</span>: 0.21</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/2_13_13_13/9_49_27.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/2_13_13_13/9_49_27.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('AACCCGGAACCACTTAGGCGACAATTCCCACCCACGACGACGAAAGAAAACAGGGAACAGGAAGTGCTGGGTGAACCGGAAGTCGAGAGGCGGTGCACACCCGTCGCGCATGCGCAAACAC')\">consensus string</a>",
+                "--"
+            ]
+        ]
+    },
+    "mode_15": {
+        "pwms": [
+            "quadruplet_motifs/2_2_13_13/6_52_27.png"
+        ],
+        "labels": [
+            "pattern 2 and 2 are 6 nucleotides apart<br>pattern 2 and 13 are 52 nucleotides apart<br>pattern 13 and 13 are 27 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/2_2_13_13/box_6_52_27.png')\"><span class=\"putBar\">contribution</span>: 0.18</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/2_2_13_13/6_52_27.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/2_2_13_13/6_52_27.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('AACCCGGAACCACTTAGGCGACAATTCCCACCCACGACGACGAAAGAAAACAGGGAACAGGAAGTGCTGGGTGAACCGGAAGTCGAGAGGCGGTGCACACCCGTCGCGCATGCGCAAACAC')\">consensus string</a>",
+                "--"
+            ]
+        ]
+    },
+    "mode_63": {
+        "pwms": [
+            "quadruplet_motifs/1_8_16_16/64_8_0.png"
+        ],
+        "labels": [
+            "pattern 1 and 8 are 64 nucleotides apart<br>pattern 8 and 16 are 8 nucleotides apart<br>pattern 16 and 16 are 0 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_8_16_16/box_64_8_0.png')\"><span class=\"putBar\">contribution</span>: 0.06</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/1_8_16_16/64_8_0.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/1_8_16_16/64_8_0.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CTTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGATGGCGATGAG')\">consensus string</a>",
+                "--"
+            ]
+        ]
+    },
+    "mode_3": {
+        "pwms": [
+            "quadruplet_motifs/4_4_13_13/5_12_9.png"
+        ],
+        "labels": [
+            "pattern 4 and 4 are 5 nucleotides apart<br>pattern 4 and 13 are 12 nucleotides apart<br>pattern 13 and 13 are 9 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_4_13_13/box_5_12_9.png')\"><span class=\"putBar\">contribution</span>: 0.36</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/4_4_13_13/5_12_9.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/4_4_13_13/5_12_9.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('TACGGGAAGCTGAATACCGGAAGCTGAATGAATACCGGAAGCTGAATGAATACCGGAAGCTG')\">consensus string</a>",
+                "--"
+            ]
+        ]
+    },
+    "mode_37": {
+        "pwms": [
+            "quadruplet_motifs/2_2_13_16/37_34_19.png"
+        ],
+        "labels": [
+            "pattern 2 and 2 are 37 nucleotides apart<br>pattern 2 and 13 are 34 nucleotides apart<br>pattern 13 and 16 are 19 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/2_2_13_16/box_37_34_19.png')\"><span class=\"putBar\">contribution</span>: 0.09</a>",
+                "# occurrences: 22",
+                "<a href=\"singleton_motifs/2_2_13_16/37_34_19.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/2_2_13_16/37_34_19.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCACCGGAAAGCTGCCGTCAGGCGCTTCCnGCTTCCGGGGCGCACAnTGCCGCAAACAGGAAGTGTGGCGCTTAACGGGAACCGGCGCCCGGAAnGTCAGCGTGTGAAGTAGGCGCTGGCAACGCG')\">consensus string</a>",
+                "--"
+            ]
+        ]
+    },
+    "mode_58": {
+        "pwms": [
+            "quadruplet_motifs/1_7_13_16/21_27_15.png",
+            "quadruplet_motifs/1_7_13_16/21_27_24.png",
+            "quadruplet_motifs/1_7_13_16/29_19_15.png",
+            "quadruplet_motifs/1_7_13_16/29_19_24.png"
+        ],
+        "labels": [
+            "pattern 1 and 7 are 21 nucleotides apart<br>pattern 7 and 13 are 27 nucleotides apart<br>pattern 13 and 16 are 15 nucleotides apart<br>",
+            "pattern 1 and 7 are 21 nucleotides apart<br>pattern 7 and 13 are 27 nucleotides apart<br>pattern 13 and 16 are 24 nucleotides apart<br>",
+            "pattern 1 and 7 are 29 nucleotides apart<br>pattern 7 and 13 are 19 nucleotides apart<br>pattern 13 and 16 are 15 nucleotides apart<br>",
+            "pattern 1 and 7 are 29 nucleotides apart<br>pattern 7 and 13 are 19 nucleotides apart<br>pattern 13 and 16 are 24 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_7_13_16/box_21_27_15.png')\"><span class=\"putBar\">contribution</span>: 0.07</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/1_7_13_16/21_27_15.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/1_7_13_16/21_27_15.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CTTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGAT')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_7_13_16/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_7_13_16/box_21_27_24.png')\"><span class=\"putBar\">contribution</span>: 0.07</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/1_7_13_16/21_27_24.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/1_7_13_16/21_27_24.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CTTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGATGGCGATGAG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_7_13_16/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_7_13_16/box_29_19_15.png')\"><span class=\"putBar\">contribution</span>: 0.07</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/1_7_13_16/29_19_15.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/1_7_13_16/29_19_15.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CTTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGAT')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_7_13_16/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_7_13_16/box_29_19_24.png')\"><span class=\"putBar\">contribution</span>: 0.06</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/1_7_13_16/29_19_24.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/1_7_13_16/29_19_24.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CTTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGATGGCGATGAG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_7_13_16/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_49": {
+        "pwms": [
+            "quadruplet_motifs/4_7_13_16/20_27_15.png",
+            "quadruplet_motifs/4_7_13_16/20_27_24.png",
+            "quadruplet_motifs/4_7_13_16/28_19_15.png",
+            "quadruplet_motifs/4_7_13_16/28_19_24.png"
+        ],
+        "labels": [
+            "pattern 4 and 7 are 20 nucleotides apart<br>pattern 7 and 13 are 27 nucleotides apart<br>pattern 13 and 16 are 15 nucleotides apart<br>",
+            "pattern 4 and 7 are 20 nucleotides apart<br>pattern 7 and 13 are 27 nucleotides apart<br>pattern 13 and 16 are 24 nucleotides apart<br>",
+            "pattern 4 and 7 are 28 nucleotides apart<br>pattern 7 and 13 are 19 nucleotides apart<br>pattern 13 and 16 are 15 nucleotides apart<br>",
+            "pattern 4 and 7 are 28 nucleotides apart<br>pattern 7 and 13 are 19 nucleotides apart<br>pattern 13 and 16 are 24 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_7_13_16/box_20_27_15.png')\"><span class=\"putBar\">contribution</span>: 0.08</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/4_7_13_16/20_27_15.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/4_7_13_16/20_27_15.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('TTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGAT')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_7_13_16/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_7_13_16/box_20_27_24.png')\"><span class=\"putBar\">contribution</span>: 0.08</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/4_7_13_16/20_27_24.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/4_7_13_16/20_27_24.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('TTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGATGGCGATGAG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_7_13_16/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_7_13_16/box_28_19_15.png')\"><span class=\"putBar\">contribution</span>: 0.07</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/4_7_13_16/28_19_15.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/4_7_13_16/28_19_15.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('TTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGAT')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_7_13_16/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_7_13_16/box_28_19_24.png')\"><span class=\"putBar\">contribution</span>: 0.07</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/4_7_13_16/28_19_24.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/4_7_13_16/28_19_24.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('TTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGATGGCGATGAG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_7_13_16/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_45": {
+        "pwms": [
+            "quadruplet_motifs/1_6_16_16/64_8_0.png"
+        ],
+        "labels": [
+            "pattern 1 and 6 are 64 nucleotides apart<br>pattern 6 and 16 are 8 nucleotides apart<br>pattern 16 and 16 are 0 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_6_16_16/box_64_8_0.png')\"><span class=\"putBar\">contribution</span>: 0.08</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/1_6_16_16/64_8_0.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/1_6_16_16/64_8_0.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CTTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGATGGCGATGAG')\">consensus string</a>",
+                "--"
+            ]
+        ]
+    },
+    "mode_42": {
+        "pwms": [
+            "quadruplet_motifs/1_4_6_16/19_36_8.png",
+            "quadruplet_motifs/1_4_6_16/19_36_17.png"
+        ],
+        "labels": [
+            "pattern 1 and 4 are 19 nucleotides apart<br>pattern 4 and 6 are 36 nucleotides apart<br>pattern 6 and 16 are 8 nucleotides apart<br>",
+            "pattern 1 and 4 are 19 nucleotides apart<br>pattern 4 and 6 are 36 nucleotides apart<br>pattern 6 and 16 are 17 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_4_6_16/box_19_36_8.png')\"><span class=\"putBar\">contribution</span>: 0.08</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/1_4_6_16/19_36_8.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/1_4_6_16/19_36_8.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CTTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGAT')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_4_6_16/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_4_6_16/box_19_36_17.png')\"><span class=\"putBar\">contribution</span>: 0.08</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/1_4_6_16/19_36_17.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/1_4_6_16/19_36_17.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CTTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGATGGCGATGAG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_4_6_16/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_60": {
+        "pwms": [
+            "quadruplet_motifs/7_13_16_16/19_15_0.png",
+            "quadruplet_motifs/7_13_16_16/27_15_0.png"
+        ],
+        "labels": [
+            "pattern 7 and 13 are 19 nucleotides apart<br>pattern 13 and 16 are 15 nucleotides apart<br>pattern 16 and 16 are 0 nucleotides apart<br>",
+            "pattern 7 and 13 are 27 nucleotides apart<br>pattern 13 and 16 are 15 nucleotides apart<br>pattern 16 and 16 are 0 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/7_13_16_16/box_19_15_0.png')\"><span class=\"putBar\">contribution</span>: 0.06</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/7_13_16_16/19_15_0.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/7_13_16_16/19_15_0.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('GCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGATGGCGATGAG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/7_13_16_16/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/7_13_16_16/box_27_15_0.png')\"><span class=\"putBar\">contribution</span>: 0.07</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/7_13_16_16/27_15_0.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/7_13_16_16/27_15_0.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGATGGCGATGAG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/7_13_16_16/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_57": {
+        "pwms": [
+            "quadruplet_motifs/1_13_16_16/57_15_0.png"
+        ],
+        "labels": [
+            "pattern 1 and 13 are 57 nucleotides apart<br>pattern 13 and 16 are 15 nucleotides apart<br>pattern 16 and 16 are 0 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_13_16_16/box_57_15_0.png')\"><span class=\"putBar\">contribution</span>: 0.07</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/1_13_16_16/57_15_0.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/1_13_16_16/57_15_0.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CTTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGATGGCGATGAG')\">consensus string</a>",
+                "--"
+            ]
+        ]
+    },
+    "mode_25": {
+        "pwms": [
+            "quadruplet_motifs/4_6_13_13/21_9_30.png"
+        ],
+        "labels": [
+            "pattern 4 and 6 are 21 nucleotides apart<br>pattern 6 and 13 are 9 nucleotides apart<br>pattern 13 and 13 are 30 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_6_13_13/box_21_9_30.png')\"><span class=\"putBar\">contribution</span>: 0.14</a>",
+                "# occurrences: 22",
+                "<a href=\"singleton_motifs/4_6_13_13/21_9_30.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/4_6_13_13/21_9_30.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('ACCGGAAAGCTGCCGTCAGGCGCTTCCnGCTTCCGGGGCGCACAnTGCCGCAAACAGGAAGTGTGGCGCTTAACGGGAACCGGCGCCCGGAAnGTC')\">consensus string</a>",
+                "--"
+            ]
+        ]
+    },
+    "mode_38": {
+        "pwms": [
+            "quadruplet_motifs/4_12_13_16/11_19_58.png",
+            "quadruplet_motifs/4_12_13_16/11_58_19.png",
+            "quadruplet_motifs/4_12_13_16/18_51_19.png"
+        ],
+        "labels": [
+            "pattern 4 and 12 are 11 nucleotides apart<br>pattern 12 and 13 are 19 nucleotides apart<br>pattern 13 and 16 are 58 nucleotides apart<br>",
+            "pattern 4 and 12 are 11 nucleotides apart<br>pattern 12 and 13 are 58 nucleotides apart<br>pattern 13 and 16 are 19 nucleotides apart<br>",
+            "pattern 4 and 12 are 18 nucleotides apart<br>pattern 12 and 13 are 51 nucleotides apart<br>pattern 13 and 16 are 19 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_12_13_16/box_11_19_58.png')\"><span class=\"putBar\">contribution</span>: 0.08</a>",
+                "# occurrences: 22",
+                "<a href=\"singleton_motifs/4_12_13_16/11_19_58.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/4_12_13_16/11_19_58.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('ACCGGAAAGCTGCCGTCAGGCGCTTCCnGCTTCCGGGGCGCACAnTGCCGCAAACAGGAAGTGTGGCGCTTAACGGGAACCGGCGCCCGGAAnGTCAGCGTGTGAAGTAGGCGCTGGCAACGCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_12_13_16/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_12_13_16/box_11_58_19.png')\"><span class=\"putBar\">contribution</span>: 0.1</a>",
+                "# occurrences: 22",
+                "<a href=\"singleton_motifs/4_12_13_16/11_58_19.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/4_12_13_16/11_58_19.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('ACCGGAAAGCTGCCGTCAGGCGCTTCCnGCTTCCGGGGCGCACAnTGCCGCAAACAGGAAGTGTGGCGCTTAACGGGAACCGGCGCCCGGAAnGTCAGCGTGTGAAGTAGGCGCTGGCAACGCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_12_13_16/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_12_13_16/box_18_51_19.png')\"><span class=\"putBar\">contribution</span>: 0.09</a>",
+                "# occurrences: 22",
+                "<a href=\"singleton_motifs/4_12_13_16/18_51_19.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/4_12_13_16/18_51_19.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('ACCGGAAAGCTGCCGTCAGGCGCTTCCnGCTTCCGGGGCGCACAnTGCCGCAAACAGGAAGTGTGGCGCTTAACGGGAACCGGCGCCCGGAAnGTCAGCGTGTGAAGTAGGCGCTGGCAACGCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_12_13_16/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_8": {
+        "pwms": [
+            "quadruplet_motifs/1_13_13_13/6_4_68.png",
+            "quadruplet_motifs/1_13_13_13/6_4_75.png"
+        ],
+        "labels": [
+            "pattern 1 and 13 are 6 nucleotides apart<br>pattern 13 and 13 are 4 nucleotides apart<br>pattern 13 and 13 are 68 nucleotides apart<br>",
+            "pattern 1 and 13 are 6 nucleotides apart<br>pattern 13 and 13 are 4 nucleotides apart<br>pattern 13 and 13 are 75 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_13_13_13/box_6_4_68.png')\"><span class=\"putBar\">contribution</span>: 0.24</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/1_13_13_13/6_4_68.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/1_13_13_13/6_4_68.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CTTCCGGGTCCGTTCCGGAAGCCTCTTCCGCCAGAGGTTCCCTTTGCCTTCTAGCAGGAAGTGACGGAGAAAGCCGGGCGCTGATTGGTGAGCTCTGGCCAGGAGCGGAAGCCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_13_13_13/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_13_13_13/box_6_4_75.png')\"><span class=\"putBar\">contribution</span>: 0.24</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/1_13_13_13/6_4_75.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/1_13_13_13/6_4_75.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CTTCCGGGTCCGTTCCGGAAGCCTCTTCCGCCAGAGGTTCCCTTTGCCTTCTAGCAGGAAGTGACGGAGAAAGCCGGGCGCTGATTGGTGAGCTCTGGCCAGGAGCGGAAGCCGGTGTTTC')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_13_13_13/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_68": {
+        "pwms": [
+            "quadruplet_motifs/7_8_16_16/26_8_0.png",
+            "quadruplet_motifs/7_8_16_16/34_8_0.png"
+        ],
+        "labels": [
+            "pattern 7 and 8 are 26 nucleotides apart<br>pattern 8 and 16 are 8 nucleotides apart<br>pattern 16 and 16 are 0 nucleotides apart<br>",
+            "pattern 7 and 8 are 34 nucleotides apart<br>pattern 8 and 16 are 8 nucleotides apart<br>pattern 16 and 16 are 0 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/7_8_16_16/box_26_8_0.png')\"><span class=\"putBar\">contribution</span>: 0.05</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/7_8_16_16/26_8_0.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/7_8_16_16/26_8_0.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('GCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGATGGCGATGAG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/7_8_16_16/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/7_8_16_16/box_34_8_0.png')\"><span class=\"putBar\">contribution</span>: 0.06</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/7_8_16_16/34_8_0.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/7_8_16_16/34_8_0.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGATGGCGATGAG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/7_8_16_16/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_54": {
+        "pwms": [
+            "quadruplet_motifs/4_13_16_16/29_15_0.png",
+            "quadruplet_motifs/4_13_16_16/56_15_0.png"
+        ],
+        "labels": [
+            "pattern 4 and 13 are 29 nucleotides apart<br>pattern 13 and 16 are 15 nucleotides apart<br>pattern 16 and 16 are 0 nucleotides apart<br>",
+            "pattern 4 and 13 are 56 nucleotides apart<br>pattern 13 and 16 are 15 nucleotides apart<br>pattern 16 and 16 are 0 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_13_16_16/box_29_15_0.png')\"><span class=\"putBar\">contribution</span>: 0.07</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/4_13_16_16/29_15_0.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/4_13_16_16/29_15_0.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('GCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGATGGCGATGAG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_13_16_16/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_13_16_16/box_56_15_0.png')\"><span class=\"putBar\">contribution</span>: 0.07</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/4_13_16_16/56_15_0.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/4_13_16_16/56_15_0.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('TTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGATGGCGATGAG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_13_16_16/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_14": {
+        "pwms": [
+            "quadruplet_motifs/13_13_13_13/5_49_27.png",
+            "quadruplet_motifs/13_13_13_13/14_12_27.png"
+        ],
+        "labels": [
+            "pattern 13 and 13 are 5 nucleotides apart<br>pattern 13 and 13 are 49 nucleotides apart<br>pattern 13 and 13 are 27 nucleotides apart<br>",
+            "pattern 13 and 13 are 14 nucleotides apart<br>pattern 13 and 13 are 12 nucleotides apart<br>pattern 13 and 13 are 27 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/13_13_13_13/box_5_49_27.png')\"><span class=\"putBar\">contribution</span>: 0.21</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/13_13_13_13/5_49_27.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/13_13_13_13/5_49_27.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CGGAACCACTTAGGCGACAATTCCCACCCACGACGACGAAAGAAAACAGGGAACAGGAAGTGCTGGGTGAACCGGAAGTCGAGAGGCGGTGCACACCCGTCGCGCATGCGCAAACAC')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/13_13_13_13/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/13_13_13_13/box_14_12_27.png')\"><span class=\"putBar\">contribution</span>: 0.18</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/13_13_13_13/14_12_27.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/13_13_13_13/14_12_27.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CGTCAGCTCTGGTGGGTTTTTACCGGAAGCAGCCGGACCTTTTCCGGTGTTGCGAATTTCCAGGAAGTGCTTTGCTCCAGCGGCCGTTA')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/13_13_13_13/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_16": {
+        "pwms": [
+            "quadruplet_motifs/2_2_4_13/6_49_30.png"
+        ],
+        "labels": [
+            "pattern 2 and 2 are 6 nucleotides apart<br>pattern 2 and 4 are 49 nucleotides apart<br>pattern 4 and 13 are 30 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/2_2_4_13/box_6_49_30.png')\"><span class=\"putBar\">contribution</span>: 0.18</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/2_2_4_13/6_49_30.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/2_2_4_13/6_49_30.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('AACCCGGAACCACTTAGGCGACAATTCCCACCCACGACGACGAAAGAAAACAGGGAACAGGAAGTGCTGGGTGAACCGGAAGTCGAGAGGCGGTGCACACCCGTCGCGCATGCGCAAACAC')\">consensus string</a>",
+                "--"
+            ]
+        ]
+    },
+    "mode_51": {
+        "pwms": [
+            "quadruplet_motifs/7_12_16_16/23_11_0.png",
+            "quadruplet_motifs/7_12_16_16/31_11_0.png"
+        ],
+        "labels": [
+            "pattern 7 and 12 are 23 nucleotides apart<br>pattern 12 and 16 are 11 nucleotides apart<br>pattern 16 and 16 are 0 nucleotides apart<br>",
+            "pattern 7 and 12 are 31 nucleotides apart<br>pattern 12 and 16 are 11 nucleotides apart<br>pattern 16 and 16 are 0 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/7_12_16_16/box_23_11_0.png')\"><span class=\"putBar\">contribution</span>: 0.07</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/7_12_16_16/23_11_0.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/7_12_16_16/23_11_0.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('GCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGATGGCGATGAG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/7_12_16_16/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/7_12_16_16/box_31_11_0.png')\"><span class=\"putBar\">contribution</span>: 0.08</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/7_12_16_16/31_11_0.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/7_12_16_16/31_11_0.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGATGGCGATGAG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/7_12_16_16/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_46": {
+        "pwms": [
+            "quadruplet_motifs/4_4_12_16/18_33_11.png",
+            "quadruplet_motifs/4_4_12_16/18_33_20.png"
+        ],
+        "labels": [
+            "pattern 4 and 4 are 18 nucleotides apart<br>pattern 4 and 12 are 33 nucleotides apart<br>pattern 12 and 16 are 11 nucleotides apart<br>",
+            "pattern 4 and 4 are 18 nucleotides apart<br>pattern 4 and 12 are 33 nucleotides apart<br>pattern 12 and 16 are 20 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_4_12_16/box_18_33_11.png')\"><span class=\"putBar\">contribution</span>: 0.08</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/4_4_12_16/18_33_11.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/4_4_12_16/18_33_11.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('TTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGAT')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_4_12_16/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_4_12_16/box_18_33_20.png')\"><span class=\"putBar\">contribution</span>: 0.08</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/4_4_12_16/18_33_20.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/4_4_12_16/18_33_20.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('TTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGATGGCGATGAG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_4_12_16/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_6": {
+        "pwms": [
+            "quadruplet_motifs/1_4_13_13/3_7_68.png",
+            "quadruplet_motifs/1_4_13_13/3_7_75.png"
+        ],
+        "labels": [
+            "pattern 1 and 4 are 3 nucleotides apart<br>pattern 4 and 13 are 7 nucleotides apart<br>pattern 13 and 13 are 68 nucleotides apart<br>",
+            "pattern 1 and 4 are 3 nucleotides apart<br>pattern 4 and 13 are 7 nucleotides apart<br>pattern 13 and 13 are 75 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_4_13_13/box_3_7_68.png')\"><span class=\"putBar\">contribution</span>: 0.27</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/1_4_13_13/3_7_68.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/1_4_13_13/3_7_68.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CTTCCGGGTCCGTTCCGGAAGCCTCTTCCGCCAGAGGTTCCCTTTGCCTTCTAGCAGGAAGTGACGGAGAAAGCCGGGCGCTGATTGGTGAGCTCTGGCCAGGAGCGGAAGCCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_4_13_13/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_4_13_13/box_3_7_75.png')\"><span class=\"putBar\">contribution</span>: 0.27</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/1_4_13_13/3_7_75.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/1_4_13_13/3_7_75.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CTTCCGGGTCCGTTCCGGAAGCCTCTTCCGCCAGAGGTTCCCTTTGCCTTCTAGCAGGAAGTGACGGAGAAAGCCGGGCGCTGATTGGTGAGCTCTGGCCAGGAGCGGAAGCCGGTGTTTC')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_4_13_13/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_26": {
+        "pwms": [
+            "quadruplet_motifs/1_2_5_16/12_1_13.png"
+        ],
+        "labels": [
+            "pattern 1 and 2 are 12 nucleotides apart<br>pattern 2 and 5 are 1 nucleotides apart<br>pattern 5 and 16 are 13 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_2_5_16/box_12_1_13.png')\"><span class=\"putBar\">contribution</span>: 0.11</a>",
+                "# occurrences: 20",
+                "<a href=\"singleton_motifs/1_2_5_16/12_1_13.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/1_2_5_16/12_1_13.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('GTGGCGCTTAACGGGAACCGGCGCCCGGAAnGTCAGCGTGTGAAGTAGGCGCTGGCAACGCG')\">consensus string</a>",
+                "--"
+            ]
+        ]
+    },
+    "mode_1": {
+        "pwms": [
+            "quadruplet_motifs/4_13_13_13/8_9_9.png"
+        ],
+        "labels": [
+            "pattern 4 and 13 are 8 nucleotides apart<br>pattern 13 and 13 are 9 nucleotides apart<br>pattern 13 and 13 are 9 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_13_13_13/box_8_9_9.png')\"><span class=\"putBar\">contribution</span>: 0.38</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/4_13_13_13/8_9_9.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/4_13_13_13/8_9_9.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('TACGGGAAGCTGAATACCGGAAGCTGAATGAATACCGGAAGCTGAATGAATACCGGAAGCTG')\">consensus string</a>",
+                "--"
+            ]
+        ]
+    },
+    "mode_32": {
+        "pwms": [
+            "quadruplet_motifs/2_12_13_13/13_19_30.png"
+        ],
+        "labels": [
+            "pattern 2 and 12 are 13 nucleotides apart<br>pattern 12 and 13 are 19 nucleotides apart<br>pattern 13 and 13 are 30 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/2_12_13_13/box_13_19_30.png')\"><span class=\"putBar\">contribution</span>: 0.1</a>",
+                "# occurrences: 22",
+                "<a href=\"singleton_motifs/2_12_13_13/13_19_30.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/2_12_13_13/13_19_30.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCACCGGAAAGCTGCCGTCAGGCGCTTCCnGCTTCCGGGGCGCACAnTGCCGCAAACAGGAAGTGTGGCGCTTAACGGGAACCGGCGCCCGGAAnGTC')\">consensus string</a>",
+                "--"
+            ]
+        ]
+    },
+    "mode_40": {
+        "pwms": [
+            "quadruplet_motifs/4_4_13_16/18_29_15.png",
+            "quadruplet_motifs/4_4_13_16/18_29_24.png"
+        ],
+        "labels": [
+            "pattern 4 and 4 are 18 nucleotides apart<br>pattern 4 and 13 are 29 nucleotides apart<br>pattern 13 and 16 are 15 nucleotides apart<br>",
+            "pattern 4 and 4 are 18 nucleotides apart<br>pattern 4 and 13 are 29 nucleotides apart<br>pattern 13 and 16 are 24 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_4_13_16/box_18_29_15.png')\"><span class=\"putBar\">contribution</span>: 0.08</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/4_4_13_16/18_29_15.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/4_4_13_16/18_29_15.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('TTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGAT')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_4_13_16/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_4_13_16/box_18_29_24.png')\"><span class=\"putBar\">contribution</span>: 0.08</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/4_4_13_16/18_29_24.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/4_4_13_16/18_29_24.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('TTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGATGGCGATGAG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_4_13_16/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_59": {
+        "pwms": [
+            "quadruplet_motifs/4_7_8_16/20_34_8.png",
+            "quadruplet_motifs/4_7_8_16/20_34_17.png",
+            "quadruplet_motifs/4_7_8_16/28_26_8.png",
+            "quadruplet_motifs/4_7_8_16/28_26_17.png"
+        ],
+        "labels": [
+            "pattern 4 and 7 are 20 nucleotides apart<br>pattern 7 and 8 are 34 nucleotides apart<br>pattern 8 and 16 are 8 nucleotides apart<br>",
+            "pattern 4 and 7 are 20 nucleotides apart<br>pattern 7 and 8 are 34 nucleotides apart<br>pattern 8 and 16 are 17 nucleotides apart<br>",
+            "pattern 4 and 7 are 28 nucleotides apart<br>pattern 7 and 8 are 26 nucleotides apart<br>pattern 8 and 16 are 8 nucleotides apart<br>",
+            "pattern 4 and 7 are 28 nucleotides apart<br>pattern 7 and 8 are 26 nucleotides apart<br>pattern 8 and 16 are 17 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_7_8_16/box_20_34_8.png')\"><span class=\"putBar\">contribution</span>: 0.07</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/4_7_8_16/20_34_8.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/4_7_8_16/20_34_8.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('TTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGAT')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_7_8_16/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_7_8_16/box_20_34_17.png')\"><span class=\"putBar\">contribution</span>: 0.07</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/4_7_8_16/20_34_17.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/4_7_8_16/20_34_17.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('TTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGATGGCGATGAG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_7_8_16/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_7_8_16/box_28_26_8.png')\"><span class=\"putBar\">contribution</span>: 0.06</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/4_7_8_16/28_26_8.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/4_7_8_16/28_26_8.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('TTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGAT')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_7_8_16/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_7_8_16/box_28_26_17.png')\"><span class=\"putBar\">contribution</span>: 0.06</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/4_7_8_16/28_26_17.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/4_7_8_16/28_26_17.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('TTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGATGGCGATGAG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_7_8_16/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_31": {
+        "pwms": [
+            "quadruplet_motifs/2_4_13_16/38_33_19.png"
+        ],
+        "labels": [
+            "pattern 2 and 4 are 38 nucleotides apart<br>pattern 4 and 13 are 33 nucleotides apart<br>pattern 13 and 16 are 19 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/2_4_13_16/box_38_33_19.png')\"><span class=\"putBar\">contribution</span>: 0.1</a>",
+                "# occurrences: 22",
+                "<a href=\"singleton_motifs/2_4_13_16/38_33_19.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/2_4_13_16/38_33_19.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCACCGGAAAGCTGCCGTCAGGCGCTTCCnGCTTCCGGGGCGCACAnTGCCGCAAACAGGAAGTGTGGCGCTTAACGGGAACCGGCGCCCGGAAnGTCAGCGTGTGAAGTAGGCGCTGGCAACGCG')\">consensus string</a>",
+                "--"
+            ]
+        ]
+    },
+    "mode_35": {
+        "pwms": [
+            "quadruplet_motifs/4_4_6_16/18_36_8.png",
+            "quadruplet_motifs/4_4_6_16/18_36_17.png"
+        ],
+        "labels": [
+            "pattern 4 and 4 are 18 nucleotides apart<br>pattern 4 and 6 are 36 nucleotides apart<br>pattern 6 and 16 are 8 nucleotides apart<br>",
+            "pattern 4 and 4 are 18 nucleotides apart<br>pattern 4 and 6 are 36 nucleotides apart<br>pattern 6 and 16 are 17 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_4_6_16/box_18_36_8.png')\"><span class=\"putBar\">contribution</span>: 0.09</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/4_4_6_16/18_36_8.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/4_4_6_16/18_36_8.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('TTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGAT')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_4_6_16/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_4_6_16/box_18_36_17.png')\"><span class=\"putBar\">contribution</span>: 0.09</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/4_4_6_16/18_36_17.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/4_4_6_16/18_36_17.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('TTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGATGGCGATGAG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_4_6_16/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_7": {
+        "pwms": [
+            "quadruplet_motifs/1_1_13_13/2_8_68.png",
+            "quadruplet_motifs/1_1_13_13/2_8_75.png"
+        ],
+        "labels": [
+            "pattern 1 and 1 are 2 nucleotides apart<br>pattern 1 and 13 are 8 nucleotides apart<br>pattern 13 and 13 are 68 nucleotides apart<br>",
+            "pattern 1 and 1 are 2 nucleotides apart<br>pattern 1 and 13 are 8 nucleotides apart<br>pattern 13 and 13 are 75 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_1_13_13/box_2_8_68.png')\"><span class=\"putBar\">contribution</span>: 0.27</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/1_1_13_13/2_8_68.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/1_1_13_13/2_8_68.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CTTCCGGGTCCGTTCCGGAAGCCTCTTCCGCCAGAGGTTCCCTTTGCCTTCTAGCAGGAAGTGACGGAGAAAGCCGGGCGCTGATTGGTGAGCTCTGGCCAGGAGCGGAAGCCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_1_13_13/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_1_13_13/box_2_8_75.png')\"><span class=\"putBar\">contribution</span>: 0.27</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/1_1_13_13/2_8_75.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/1_1_13_13/2_8_75.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CTTCCGGGTCCGTTCCGGAAGCCTCTTCCGCCAGAGGTTCCCTTTGCCTTCTAGCAGGAAGTGACGGAGAAAGCCGGGCGCTGATTGGTGAGCTCTGGCCAGGAGCGGAAGCCGGTGTTTC')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_1_13_13/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_62": {
+        "pwms": [
+            "quadruplet_motifs/4_4_8_16/18_36_8.png",
+            "quadruplet_motifs/4_4_8_16/18_36_17.png"
+        ],
+        "labels": [
+            "pattern 4 and 4 are 18 nucleotides apart<br>pattern 4 and 8 are 36 nucleotides apart<br>pattern 8 and 16 are 8 nucleotides apart<br>",
+            "pattern 4 and 4 are 18 nucleotides apart<br>pattern 4 and 8 are 36 nucleotides apart<br>pattern 8 and 16 are 17 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_4_8_16/box_18_36_8.png')\"><span class=\"putBar\">contribution</span>: 0.07</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/4_4_8_16/18_36_8.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/4_4_8_16/18_36_8.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('TTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGAT')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_4_8_16/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_4_8_16/box_18_36_17.png')\"><span class=\"putBar\">contribution</span>: 0.06</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/4_4_8_16/18_36_17.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/4_4_8_16/18_36_17.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('TTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGATGGCGATGAG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_4_8_16/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_9": {
+        "pwms": [
+            "quadruplet_motifs/1_2_9_13/2_15_61.png",
+            "quadruplet_motifs/1_2_9_13/2_15_68.png"
+        ],
+        "labels": [
+            "pattern 1 and 2 are 2 nucleotides apart<br>pattern 2 and 9 are 15 nucleotides apart<br>pattern 9 and 13 are 61 nucleotides apart<br>",
+            "pattern 1 and 2 are 2 nucleotides apart<br>pattern 2 and 9 are 15 nucleotides apart<br>pattern 9 and 13 are 68 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_2_9_13/box_2_15_61.png')\"><span class=\"putBar\">contribution</span>: 0.24</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/1_2_9_13/2_15_61.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/1_2_9_13/2_15_61.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CTTCCGGGTCCGTTCCGGAAGCCTCTTCCGCCAGAGGTTCCCTTTGCCTTCTAGCAGGAAGTGACGGAGAAAGCCGGGCGCTGATTGGTGAGCTCTGGCCAGGAGCGGAAGCCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_2_9_13/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_2_9_13/box_2_15_68.png')\"><span class=\"putBar\">contribution</span>: 0.24</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/1_2_9_13/2_15_68.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/1_2_9_13/2_15_68.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CTTCCGGGTCCGTTCCGGAAGCCTCTTCCGCCAGAGGTTCCCTTTGCCTTCTAGCAGGAAGTGACGGAGAAAGCCGGGCGCTGATTGGTGAGCTCTGGCCAGGAGCGGAAGCCGGTGTTTC')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_2_9_13/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_2": {
+        "pwms": [
+            "quadruplet_motifs/4_4_4_13/5_9_12.png"
+        ],
+        "labels": [
+            "pattern 4 and 4 are 5 nucleotides apart<br>pattern 4 and 4 are 9 nucleotides apart<br>pattern 4 and 13 are 12 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_4_4_13/box_5_9_12.png')\"><span class=\"putBar\">contribution</span>: 0.36</a>",
+                "# occurrences: 12",
+                "<a href=\"singleton_motifs/4_4_4_13/5_9_12.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/4_4_4_13/5_9_12.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('TACGGGAAGCTGAATACCGGAAGCTGAATGAATACCGGAAGCTGAATGAATACCGGAAGCTG')\">consensus string</a>",
+                "--"
+            ]
+        ]
+    },
+    "mode_29": {
+        "pwms": [
+            "quadruplet_motifs/12_13_13_16/19_30_19.png"
+        ],
+        "labels": [
+            "pattern 12 and 13 are 19 nucleotides apart<br>pattern 13 and 13 are 30 nucleotides apart<br>pattern 13 and 16 are 19 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/12_13_13_16/box_19_30_19.png')\"><span class=\"putBar\">contribution</span>: 0.1</a>",
+                "# occurrences: 22",
+                "<a href=\"singleton_motifs/12_13_13_16/19_30_19.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/12_13_13_16/19_30_19.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CGCTTCCnGCTTCCGGGGCGCACAnTGCCGCAAACAGGAAGTGTGGCGCTTAACGGGAACCGGCGCCCGGAAnGTCAGCGTGTGAAGTAGGCGCTGGCAACGCG')\">consensus string</a>",
+                "--"
+            ]
+        ]
+    },
+    "mode_50": {
+        "pwms": [
+            "quadruplet_motifs/1_7_12_16/21_31_11.png",
+            "quadruplet_motifs/1_7_12_16/21_31_20.png",
+            "quadruplet_motifs/1_7_12_16/29_23_11.png",
+            "quadruplet_motifs/1_7_12_16/29_23_20.png"
+        ],
+        "labels": [
+            "pattern 1 and 7 are 21 nucleotides apart<br>pattern 7 and 12 are 31 nucleotides apart<br>pattern 12 and 16 are 11 nucleotides apart<br>",
+            "pattern 1 and 7 are 21 nucleotides apart<br>pattern 7 and 12 are 31 nucleotides apart<br>pattern 12 and 16 are 20 nucleotides apart<br>",
+            "pattern 1 and 7 are 29 nucleotides apart<br>pattern 7 and 12 are 23 nucleotides apart<br>pattern 12 and 16 are 11 nucleotides apart<br>",
+            "pattern 1 and 7 are 29 nucleotides apart<br>pattern 7 and 12 are 23 nucleotides apart<br>pattern 12 and 16 are 20 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_7_12_16/box_21_31_11.png')\"><span class=\"putBar\">contribution</span>: 0.08</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/1_7_12_16/21_31_11.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/1_7_12_16/21_31_11.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CTTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGAT')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_7_12_16/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_7_12_16/box_21_31_20.png')\"><span class=\"putBar\">contribution</span>: 0.08</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/1_7_12_16/21_31_20.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/1_7_12_16/21_31_20.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CTTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGATGGCGATGAG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_7_12_16/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_7_12_16/box_29_23_11.png')\"><span class=\"putBar\">contribution</span>: 0.07</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/1_7_12_16/29_23_11.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/1_7_12_16/29_23_11.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CTTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGAT')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_7_12_16/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_7_12_16/box_29_23_20.png')\"><span class=\"putBar\">contribution</span>: 0.07</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/1_7_12_16/29_23_20.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/1_7_12_16/29_23_20.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CTTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGATGGCGATGAG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_7_12_16/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_21": {
+        "pwms": [
+            "quadruplet_motifs/2_2_2_2/6_48_27.png"
+        ],
+        "labels": [
+            "pattern 2 and 2 are 6 nucleotides apart<br>pattern 2 and 2 are 48 nucleotides apart<br>pattern 2 and 2 are 27 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/2_2_2_2/box_6_48_27.png')\"><span class=\"putBar\">contribution</span>: 0.15</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/2_2_2_2/6_48_27.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/2_2_2_2/6_48_27.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('AACCCGGAACCACTTAGGCGACAATTCCCACCCACGACGACGAAAGAAAACAGGGAACAGGAAGTGCTGGGTGAACCGGAAGTCGAGAGGCGGTGCACACCCGTCGCGCATGCGCAA')\">consensus string</a>",
+                "--"
+            ]
+        ]
+    },
+    "mode_11": {
+        "pwms": [
+            "quadruplet_motifs/1_2_13_13/2_8_68.png",
+            "quadruplet_motifs/1_2_13_13/2_8_75.png"
+        ],
+        "labels": [
+            "pattern 1 and 2 are 2 nucleotides apart<br>pattern 2 and 13 are 8 nucleotides apart<br>pattern 13 and 13 are 68 nucleotides apart<br>",
+            "pattern 1 and 2 are 2 nucleotides apart<br>pattern 2 and 13 are 8 nucleotides apart<br>pattern 13 and 13 are 75 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_2_13_13/box_2_8_68.png')\"><span class=\"putBar\">contribution</span>: 0.22</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/1_2_13_13/2_8_68.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/1_2_13_13/2_8_68.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CTTCCGGGTCCGTTCCGGAAGCCTCTTCCGCCAGAGGTTCCCTTTGCCTTCTAGCAGGAAGTGACGGAGAAAGCCGGGCGCTGATTGGTGAGCTCTGGCCAGGAGCGGAAGCCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_2_13_13/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_2_13_13/box_2_8_75.png')\"><span class=\"putBar\">contribution</span>: 0.22</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/1_2_13_13/2_8_75.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/1_2_13_13/2_8_75.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CTTCCGGGTCCGTTCCGGAAGCCTCTTCCGCCAGAGGTTCCCTTTGCCTTCTAGCAGGAAGTGACGGAGAAAGCCGGGCGCTGATTGGTGAGCTCTGGCCAGGAGCGGAAGCCGGTGTTTC')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_2_13_13/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_28": {
+        "pwms": [
+            "quadruplet_motifs/2_12_13_16/13_19_58.png",
+            "quadruplet_motifs/2_12_13_16/13_58_19.png",
+            "quadruplet_motifs/2_12_13_16/20_51_19.png"
+        ],
+        "labels": [
+            "pattern 2 and 12 are 13 nucleotides apart<br>pattern 12 and 13 are 19 nucleotides apart<br>pattern 13 and 16 are 58 nucleotides apart<br>",
+            "pattern 2 and 12 are 13 nucleotides apart<br>pattern 12 and 13 are 58 nucleotides apart<br>pattern 13 and 16 are 19 nucleotides apart<br>",
+            "pattern 2 and 12 are 20 nucleotides apart<br>pattern 12 and 13 are 51 nucleotides apart<br>pattern 13 and 16 are 19 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/2_12_13_16/box_13_19_58.png')\"><span class=\"putBar\">contribution</span>: 0.09</a>",
+                "# occurrences: 22",
+                "<a href=\"singleton_motifs/2_12_13_16/13_19_58.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/2_12_13_16/13_19_58.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCACCGGAAAGCTGCCGTCAGGCGCTTCCnGCTTCCGGGGCGCACAnTGCCGCAAACAGGAAGTGTGGCGCTTAACGGGAACCGGCGCCCGGAAnGTCAGCGTGTGAAGTAGGCGCTGGCAACGCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/2_12_13_16/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/2_12_13_16/box_13_58_19.png')\"><span class=\"putBar\">contribution</span>: 0.11</a>",
+                "# occurrences: 22",
+                "<a href=\"singleton_motifs/2_12_13_16/13_58_19.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/2_12_13_16/13_58_19.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCACCGGAAAGCTGCCGTCAGGCGCTTCCnGCTTCCGGGGCGCACAnTGCCGCAAACAGGAAGTGTGGCGCTTAACGGGAACCGGCGCCCGGAAnGTCAGCGTGTGAAGTAGGCGCTGGCAACGCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/2_12_13_16/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/2_12_13_16/box_20_51_19.png')\"><span class=\"putBar\">contribution</span>: 0.1</a>",
+                "# occurrences: 22",
+                "<a href=\"singleton_motifs/2_12_13_16/20_51_19.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/2_12_13_16/20_51_19.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCACCGGAAAGCTGCCGTCAGGCGCTTCCnGCTTCCGGGGCGCACAnTGCCGCAAACAGGAAGTGTGGCGCTTAACGGGAACCGGCGCCCGGAAnGTCAGCGTGTGAAGTAGGCGCTGGCAACGCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/2_12_13_16/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_33": {
+        "pwms": [
+            "quadruplet_motifs/4_12_15_16/11_21_56.png",
+            "quadruplet_motifs/4_12_15_16/18_14_56.png"
+        ],
+        "labels": [
+            "pattern 4 and 12 are 11 nucleotides apart<br>pattern 12 and 15 are 21 nucleotides apart<br>pattern 15 and 16 are 56 nucleotides apart<br>",
+            "pattern 4 and 12 are 18 nucleotides apart<br>pattern 12 and 15 are 14 nucleotides apart<br>pattern 15 and 16 are 56 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_12_15_16/box_11_21_56.png')\"><span class=\"putBar\">contribution</span>: 0.1</a>",
+                "# occurrences: 20",
+                "<a href=\"singleton_motifs/4_12_15_16/11_21_56.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/4_12_15_16/11_21_56.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('ACCGGAAAGCTGCCGTCAGGCGCTTCCnGCTTCCGGGGCGCACAnTGCCGCAAACAGGAAGTnTGGCGCTTAACGGGAACCGGCGCCCGGAAnGTCAGCGTGTGAAGTAGGCGCTGGCAACGCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_12_15_16/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_12_15_16/box_18_14_56.png')\"><span class=\"putBar\">contribution</span>: 0.1</a>",
+                "# occurrences: 20",
+                "<a href=\"singleton_motifs/4_12_15_16/18_14_56.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/4_12_15_16/18_14_56.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('ACCGGAAAGCTGCCGTCAGGCGCTTCCnGCTTCCGGGGCGCACAnTGCCGCAAACAGGAAGTnTGGCGCTTAACGGGAACCGGCGCCCGGAAnGTCAGCGTGTGAAGTAGGCGCTGGCAACGCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_12_15_16/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_48": {
+        "pwms": [
+            "quadruplet_motifs/12_12_16_16/63_11_0.png"
+        ],
+        "labels": [
+            "pattern 12 and 12 are 63 nucleotides apart<br>pattern 12 and 16 are 11 nucleotides apart<br>pattern 16 and 16 are 0 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/12_12_16_16/box_63_11_0.png')\"><span class=\"putBar\">contribution</span>: 0.08</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/12_12_16_16/63_11_0.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/12_12_16_16/63_11_0.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('GGCTTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGATGGCGATGAG')\">consensus string</a>",
+                "--"
+            ]
+        ]
+    },
+    "mode_24": {
+        "pwms": [
+            "quadruplet_motifs/4_6_13_16/21_9_58.png",
+            "quadruplet_motifs/4_6_13_16/21_48_19.png"
+        ],
+        "labels": [
+            "pattern 4 and 6 are 21 nucleotides apart<br>pattern 6 and 13 are 9 nucleotides apart<br>pattern 13 and 16 are 58 nucleotides apart<br>",
+            "pattern 4 and 6 are 21 nucleotides apart<br>pattern 6 and 13 are 48 nucleotides apart<br>pattern 13 and 16 are 19 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_6_13_16/box_21_9_58.png')\"><span class=\"putBar\">contribution</span>: 0.13</a>",
+                "# occurrences: 22",
+                "<a href=\"singleton_motifs/4_6_13_16/21_9_58.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/4_6_13_16/21_9_58.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('ACCGGAAAGCTGCCGTCAGGCGCTTCCnGCTTCCGGGGCGCACAnTGCCGCAAACAGGAAGTGTGGCGCTTAACGGGAACCGGCGCCCGGAAnGTCAGCGTGTGAAGTAGGCGCTGGCAACGCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_6_13_16/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_6_13_16/box_21_48_19.png')\"><span class=\"putBar\">contribution</span>: 0.15</a>",
+                "# occurrences: 22",
+                "<a href=\"singleton_motifs/4_6_13_16/21_48_19.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/4_6_13_16/21_48_19.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('ACCGGAAAGCTGCCGTCAGGCGCTTCCnGCTTCCGGGGCGCACAnTGCCGCAAACAGGAAGTGTGGCGCTTAACGGGAACCGGCGCCCGGAAnGTCAGCGTGTGAAGTAGGCGCTGGCAACGCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_6_13_16/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_10": {
+        "pwms": [
+            "quadruplet_motifs/1_12_13_13/0_10_68.png",
+            "quadruplet_motifs/1_12_13_13/0_10_75.png"
+        ],
+        "labels": [
+            "pattern 1 and 12 are 0 nucleotides apart<br>pattern 12 and 13 are 10 nucleotides apart<br>pattern 13 and 13 are 68 nucleotides apart<br>",
+            "pattern 1 and 12 are 0 nucleotides apart<br>pattern 12 and 13 are 10 nucleotides apart<br>pattern 13 and 13 are 75 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_12_13_13/box_0_10_68.png')\"><span class=\"putBar\">contribution</span>: 0.23</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/1_12_13_13/0_10_68.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/1_12_13_13/0_10_68.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CTTCCGGGTCCGTTCCGGAAGCCTCTTCCGCCAGAGGTTCCCTTTGCCTTCTAGCAGGAAGTGACGGAGAAAGCCGGGCGCTGATTGGTGAGCTCTGGCCAGGAGCGGAAGCCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_12_13_13/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_12_13_13/box_0_10_75.png')\"><span class=\"putBar\">contribution</span>: 0.23</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/1_12_13_13/0_10_75.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/1_12_13_13/0_10_75.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CTTCCGGGTCCGTTCCGGAAGCCTCTTCCGCCAGAGGTTCCCTTTGCCTTCTAGCAGGAAGTGACGGAGAAAGCCGGGCGCTGATTGGTGAGCTCTGGCCAGGAGCGGAAGCCGGTGTTTC')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_12_13_13/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_56": {
+        "pwms": [
+            "quadruplet_motifs/1_12_16_16/61_11_0.png"
+        ],
+        "labels": [
+            "pattern 1 and 12 are 61 nucleotides apart<br>pattern 12 and 16 are 11 nucleotides apart<br>pattern 16 and 16 are 0 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_12_16_16/box_61_11_0.png')\"><span class=\"putBar\">contribution</span>: 0.07</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/1_12_16_16/61_11_0.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/1_12_16_16/61_11_0.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CTTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGATGGCGATGAG')\">consensus string</a>",
+                "--"
+            ]
+        ]
+    },
+    "mode_44": {
+        "pwms": [
+            "quadruplet_motifs/12_13_16_16/59_15_0.png"
+        ],
+        "labels": [
+            "pattern 12 and 13 are 59 nucleotides apart<br>pattern 13 and 16 are 15 nucleotides apart<br>pattern 16 and 16 are 0 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/12_13_16_16/box_59_15_0.png')\"><span class=\"putBar\">contribution</span>: 0.08</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/12_13_16_16/59_15_0.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/12_13_16_16/59_15_0.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('GGCTTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGATGGCGATGAG')\">consensus string</a>",
+                "--"
+            ]
+        ]
+    },
+    "mode_52": {
+        "pwms": [
+            "quadruplet_motifs/1_4_12_16/19_33_11.png",
+            "quadruplet_motifs/1_4_12_16/19_33_20.png"
+        ],
+        "labels": [
+            "pattern 1 and 4 are 19 nucleotides apart<br>pattern 4 and 12 are 33 nucleotides apart<br>pattern 12 and 16 are 11 nucleotides apart<br>",
+            "pattern 1 and 4 are 19 nucleotides apart<br>pattern 4 and 12 are 33 nucleotides apart<br>pattern 12 and 16 are 20 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_4_12_16/box_19_33_11.png')\"><span class=\"putBar\">contribution</span>: 0.08</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/1_4_12_16/19_33_11.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/1_4_12_16/19_33_11.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CTTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGAT')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_4_12_16/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_4_12_16/box_19_33_20.png')\"><span class=\"putBar\">contribution</span>: 0.07</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/1_4_12_16/19_33_20.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/1_4_12_16/19_33_20.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CTTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGATGGCGATGAG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_4_12_16/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_27": {
+        "pwms": [
+            "quadruplet_motifs/2_12_15_16/13_21_56.png",
+            "quadruplet_motifs/2_12_15_16/20_14_56.png"
+        ],
+        "labels": [
+            "pattern 2 and 12 are 13 nucleotides apart<br>pattern 12 and 15 are 21 nucleotides apart<br>pattern 15 and 16 are 56 nucleotides apart<br>",
+            "pattern 2 and 12 are 20 nucleotides apart<br>pattern 12 and 15 are 14 nucleotides apart<br>pattern 15 and 16 are 56 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/2_12_15_16/box_13_21_56.png')\"><span class=\"putBar\">contribution</span>: 0.11</a>",
+                "# occurrences: 20",
+                "<a href=\"singleton_motifs/2_12_15_16/13_21_56.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/2_12_15_16/13_21_56.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCACCGGAAAGCTGCCGTCAGGCGCTTCCnGCTTCCGGGGCGCACAnTGCCGCAAACAGGAAGTnTGGCGCTTAACGGGAACCGGCGCCCGGAAnGTCAGCGTGTGAAGTAGGCGCTGGCAACGCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/2_12_15_16/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/2_12_15_16/box_20_14_56.png')\"><span class=\"putBar\">contribution</span>: 0.1</a>",
+                "# occurrences: 20",
+                "<a href=\"singleton_motifs/2_12_15_16/20_14_56.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/2_12_15_16/20_14_56.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCACCGGAAAGCTGCCGTCAGGCGCTTCCnGCTTCCGGGGCGCACAnTGCCGCAAACAGGAAGTnTGGCGCTTAACGGGAACCGGCGCCCGGAAnGTCAGCGTGTGAAGTAGGCGCTGGCAACGCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/2_12_15_16/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_67": {
+        "pwms": [
+            "quadruplet_motifs/4_4_16_16/18_53_0.png"
+        ],
+        "labels": [
+            "pattern 4 and 4 are 18 nucleotides apart<br>pattern 4 and 16 are 53 nucleotides apart<br>pattern 16 and 16 are 0 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_4_16_16/box_18_53_0.png')\"><span class=\"putBar\">contribution</span>: 0.06</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/4_4_16_16/18_53_0.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/4_4_16_16/18_53_0.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('TTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGATGGCGATGAG')\">consensus string</a>",
+                "--"
+            ]
+        ]
+    },
+    "mode_39": {
+        "pwms": [
+            "quadruplet_motifs/4_7_12_16/20_31_11.png",
+            "quadruplet_motifs/4_7_12_16/20_31_20.png",
+            "quadruplet_motifs/4_7_12_16/28_23_11.png",
+            "quadruplet_motifs/4_7_12_16/28_23_20.png"
+        ],
+        "labels": [
+            "pattern 4 and 7 are 20 nucleotides apart<br>pattern 7 and 12 are 31 nucleotides apart<br>pattern 12 and 16 are 11 nucleotides apart<br>",
+            "pattern 4 and 7 are 20 nucleotides apart<br>pattern 7 and 12 are 31 nucleotides apart<br>pattern 12 and 16 are 20 nucleotides apart<br>",
+            "pattern 4 and 7 are 28 nucleotides apart<br>pattern 7 and 12 are 23 nucleotides apart<br>pattern 12 and 16 are 11 nucleotides apart<br>",
+            "pattern 4 and 7 are 28 nucleotides apart<br>pattern 7 and 12 are 23 nucleotides apart<br>pattern 12 and 16 are 20 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_7_12_16/box_20_31_11.png')\"><span class=\"putBar\">contribution</span>: 0.09</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/4_7_12_16/20_31_11.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/4_7_12_16/20_31_11.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('TTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGAT')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_7_12_16/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_7_12_16/box_20_31_20.png')\"><span class=\"putBar\">contribution</span>: 0.09</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/4_7_12_16/20_31_20.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/4_7_12_16/20_31_20.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('TTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGATGGCGATGAG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_7_12_16/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_7_12_16/box_28_23_11.png')\"><span class=\"putBar\">contribution</span>: 0.08</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/4_7_12_16/28_23_11.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/4_7_12_16/28_23_11.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('TTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGAT')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_7_12_16/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_7_12_16/box_28_23_20.png')\"><span class=\"putBar\">contribution</span>: 0.08</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/4_7_12_16/28_23_20.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/4_7_12_16/28_23_20.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('TTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGATGGCGATGAG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_7_12_16/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_36": {
+        "pwms": [
+            "quadruplet_motifs/4_12_13_13/11_19_30.png"
+        ],
+        "labels": [
+            "pattern 4 and 12 are 11 nucleotides apart<br>pattern 12 and 13 are 19 nucleotides apart<br>pattern 13 and 13 are 30 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_12_13_13/box_11_19_30.png')\"><span class=\"putBar\">contribution</span>: 0.09</a>",
+                "# occurrences: 22",
+                "<a href=\"singleton_motifs/4_12_13_13/11_19_30.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/4_12_13_13/11_19_30.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('ACCGGAAAGCTGCCGTCAGGCGCTTCCnGCTTCCGGGGCGCACAnTGCCGCAAACAGGAAGTGTGGCGCTTAACGGGAACCGGCGCCCGGAAnGTC')\">consensus string</a>",
+                "--"
+            ]
+        ]
+    },
+    "mode_41": {
+        "pwms": [
+            "quadruplet_motifs/13_13_16_16/53_15_0.png"
+        ],
+        "labels": [
+            "pattern 13 and 13 are 53 nucleotides apart<br>pattern 13 and 16 are 15 nucleotides apart<br>pattern 16 and 16 are 0 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/13_13_16_16/box_53_15_0.png')\"><span class=\"putBar\">contribution</span>: 0.08</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/13_13_16_16/53_15_0.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/13_13_16_16/53_15_0.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGATGGCGATGAG')\">consensus string</a>",
+                "--"
+            ]
+        ]
+    },
+    "mode_20": {
+        "pwms": [
+            "quadruplet_motifs/4_6_15_16/21_11_56.png"
+        ],
+        "labels": [
+            "pattern 4 and 6 are 21 nucleotides apart<br>pattern 6 and 15 are 11 nucleotides apart<br>pattern 15 and 16 are 56 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_6_15_16/box_21_11_56.png')\"><span class=\"putBar\">contribution</span>: 0.15</a>",
+                "# occurrences: 20",
+                "<a href=\"singleton_motifs/4_6_15_16/21_11_56.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/4_6_15_16/21_11_56.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('ACCGGAAAGCTGCCGTCAGGCGCTTCCnGCTTCCGGGGCGCACAnTGCCGCAAACAGGAAGTnTGGCGCTTAACGGGAACCGGCGCCCGGAAnGTCAGCGTGTGAAGTAGGCGCTGGCAACGCG')\">consensus string</a>",
+                "--"
+            ]
+        ]
+    },
+    "mode_4": {
+        "pwms": [
+            "quadruplet_motifs/1_4_9_13/3_14_61.png",
+            "quadruplet_motifs/1_4_9_13/3_14_68.png"
+        ],
+        "labels": [
+            "pattern 1 and 4 are 3 nucleotides apart<br>pattern 4 and 9 are 14 nucleotides apart<br>pattern 9 and 13 are 61 nucleotides apart<br>",
+            "pattern 1 and 4 are 3 nucleotides apart<br>pattern 4 and 9 are 14 nucleotides apart<br>pattern 9 and 13 are 68 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_4_9_13/box_3_14_61.png')\"><span class=\"putBar\">contribution</span>: 0.29</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/1_4_9_13/3_14_61.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/1_4_9_13/3_14_61.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CTTCCGGGTCCGTTCCGGAAGCCTCTTCCGCCAGAGGTTCCCTTTGCCTTCTAGCAGGAAGTGACGGAGAAAGCCGGGCGCTGATTGGTGAGCTCTGGCCAGGAGCGGAAGCCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_4_9_13/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_4_9_13/box_3_14_68.png')\"><span class=\"putBar\">contribution</span>: 0.29</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/1_4_9_13/3_14_68.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/1_4_9_13/3_14_68.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CTTCCGGGTCCGTTCCGGAAGCCTCTTCCGCCAGAGGTTCCCTTTGCCTTCTAGCAGGAAGTGACGGAGAAAGCCGGGCGCTGATTGGTGAGCTCTGGCCAGGAGCGGAAGCCGGTGTTTC')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_4_9_13/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_17": {
+        "pwms": [
+            "quadruplet_motifs/2_6_15_16/23_11_56.png"
+        ],
+        "labels": [
+            "pattern 2 and 6 are 23 nucleotides apart<br>pattern 6 and 15 are 11 nucleotides apart<br>pattern 15 and 16 are 56 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/2_6_15_16/box_23_11_56.png')\"><span class=\"putBar\">contribution</span>: 0.17</a>",
+                "# occurrences: 20",
+                "<a href=\"singleton_motifs/2_6_15_16/23_11_56.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/2_6_15_16/23_11_56.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCACCGGAAAGCTGCCGTCAGGCGCTTCCnGCTTCCGGGGCGCACAnTGCCGCAAACAGGAAGTnTGGCGCTTAACGGGAACCGGCGCCCGGAAnGTCAGCGTGTGAAGTAGGCGCTGGCAACGCG')\">consensus string</a>",
+                "--"
+            ]
+        ]
+    },
+    "mode_30": {
+        "pwms": [
+            "quadruplet_motifs/2_13_13_16/19_52_19.png",
+            "quadruplet_motifs/2_13_13_16/41_30_19.png"
+        ],
+        "labels": [
+            "pattern 2 and 13 are 19 nucleotides apart<br>pattern 13 and 13 are 52 nucleotides apart<br>pattern 13 and 16 are 19 nucleotides apart<br>",
+            "pattern 2 and 13 are 41 nucleotides apart<br>pattern 13 and 13 are 30 nucleotides apart<br>pattern 13 and 16 are 19 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/2_13_13_16/box_19_52_19.png')\"><span class=\"putBar\">contribution</span>: 0.1</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/2_13_13_16/19_52_19.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/2_13_13_16/19_52_19.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCACCGGAAAGCTGCCGTCAGGCGCTTCCGGCTTCCGGGGCGCACACTGCCGCAAACAGGAAGTGTGGCGCTTAACGGGAACCGGCGCCCGGAATGTCAGCGTGTGAAGTAGGCGCTGGCAACGCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/2_13_13_16/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/2_13_13_16/box_41_30_19.png')\"><span class=\"putBar\">contribution</span>: 0.1</a>",
+                "# occurrences: 22",
+                "<a href=\"singleton_motifs/2_13_13_16/41_30_19.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/2_13_13_16/41_30_19.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCACCGGAAAGCTGCCGTCAGGCGCTTCCnGCTTCCGGGGCGCACAnTGCCGCAAACAGGAAGTGTGGCGCTTAACGGGAACCGGCGCCCGGAAnGTCAGCGTGTGAAGTAGGCGCTGGCAACGCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/2_13_13_16/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_69": {
+        "pwms": [
+            "quadruplet_motifs/1_7_8_16/21_34_8.png",
+            "quadruplet_motifs/1_7_8_16/21_34_17.png",
+            "quadruplet_motifs/1_7_8_16/29_26_8.png",
+            "quadruplet_motifs/1_7_8_16/29_26_17.png"
+        ],
+        "labels": [
+            "pattern 1 and 7 are 21 nucleotides apart<br>pattern 7 and 8 are 34 nucleotides apart<br>pattern 8 and 16 are 8 nucleotides apart<br>",
+            "pattern 1 and 7 are 21 nucleotides apart<br>pattern 7 and 8 are 34 nucleotides apart<br>pattern 8 and 16 are 17 nucleotides apart<br>",
+            "pattern 1 and 7 are 29 nucleotides apart<br>pattern 7 and 8 are 26 nucleotides apart<br>pattern 8 and 16 are 8 nucleotides apart<br>",
+            "pattern 1 and 7 are 29 nucleotides apart<br>pattern 7 and 8 are 26 nucleotides apart<br>pattern 8 and 16 are 17 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_7_8_16/box_21_34_8.png')\"><span class=\"putBar\">contribution</span>: 0.06</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/1_7_8_16/21_34_8.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/1_7_8_16/21_34_8.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CTTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGAT')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_7_8_16/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_7_8_16/box_21_34_17.png')\"><span class=\"putBar\">contribution</span>: 0.06</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/1_7_8_16/21_34_17.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/1_7_8_16/21_34_17.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CTTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGATGGCGATGAG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_7_8_16/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_7_8_16/box_29_26_8.png')\"><span class=\"putBar\">contribution</span>: 0.05</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/1_7_8_16/29_26_8.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/1_7_8_16/29_26_8.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CTTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGAT')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_7_8_16/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_7_8_16/box_29_26_17.png')\"><span class=\"putBar\">contribution</span>: 0.05</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/1_7_8_16/29_26_17.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/1_7_8_16/29_26_17.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CTTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGATGGCGATGAG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_7_8_16/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_53": {
+        "pwms": [
+            "quadruplet_motifs/4_12_16_16/33_11_0.png",
+            "quadruplet_motifs/4_12_16_16/60_11_0.png"
+        ],
+        "labels": [
+            "pattern 4 and 12 are 33 nucleotides apart<br>pattern 12 and 16 are 11 nucleotides apart<br>pattern 16 and 16 are 0 nucleotides apart<br>",
+            "pattern 4 and 12 are 60 nucleotides apart<br>pattern 12 and 16 are 11 nucleotides apart<br>pattern 16 and 16 are 0 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_12_16_16/box_33_11_0.png')\"><span class=\"putBar\">contribution</span>: 0.07</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/4_12_16_16/33_11_0.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/4_12_16_16/33_11_0.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('GCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGATGGCGATGAG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_12_16_16/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_12_16_16/box_60_11_0.png')\"><span class=\"putBar\">contribution</span>: 0.08</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/4_12_16_16/60_11_0.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/4_12_16_16/60_11_0.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('TTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGATGGCGATGAG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_12_16_16/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_34": {
+        "pwms": [
+            "quadruplet_motifs/4_13_13_16/39_30_19.png"
+        ],
+        "labels": [
+            "pattern 4 and 13 are 39 nucleotides apart<br>pattern 13 and 13 are 30 nucleotides apart<br>pattern 13 and 16 are 19 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_13_13_16/box_39_30_19.png')\"><span class=\"putBar\">contribution</span>: 0.09</a>",
+                "# occurrences: 22",
+                "<a href=\"singleton_motifs/4_13_13_16/39_30_19.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/4_13_13_16/39_30_19.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('ACCGGAAAGCTGCCGTCAGGCGCTTCCnGCTTCCGGGGCGCACAnTGCCGCAAACAGGAAGTGTGGCGCTTAACGGGAACCGGCGCCCGGAAnGTCAGCGTGTGAAGTAGGCGCTGGCAACGCG')\">consensus string</a>",
+                "--"
+            ]
+        ]
+    },
+    "mode_66": {
+        "pwms": [
+            "quadruplet_motifs/4_8_16_16/36_8_0.png",
+            "quadruplet_motifs/4_8_16_16/63_8_0.png"
+        ],
+        "labels": [
+            "pattern 4 and 8 are 36 nucleotides apart<br>pattern 8 and 16 are 8 nucleotides apart<br>pattern 16 and 16 are 0 nucleotides apart<br>",
+            "pattern 4 and 8 are 63 nucleotides apart<br>pattern 8 and 16 are 8 nucleotides apart<br>pattern 16 and 16 are 0 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_8_16_16/box_36_8_0.png')\"><span class=\"putBar\">contribution</span>: 0.06</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/4_8_16_16/36_8_0.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/4_8_16_16/36_8_0.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('GCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGATGGCGATGAG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_8_16_16/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_8_16_16/box_63_8_0.png')\"><span class=\"putBar\">contribution</span>: 0.06</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/4_8_16_16/63_8_0.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/4_8_16_16/63_8_0.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('TTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGATGGCGATGAG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/4_8_16_16/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_5": {
+        "pwms": [
+            "quadruplet_motifs/1_1_9_13/2_15_61.png",
+            "quadruplet_motifs/1_1_9_13/2_15_68.png"
+        ],
+        "labels": [
+            "pattern 1 and 1 are 2 nucleotides apart<br>pattern 1 and 9 are 15 nucleotides apart<br>pattern 9 and 13 are 61 nucleotides apart<br>",
+            "pattern 1 and 1 are 2 nucleotides apart<br>pattern 1 and 9 are 15 nucleotides apart<br>pattern 9 and 13 are 68 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_1_9_13/box_2_15_61.png')\"><span class=\"putBar\">contribution</span>: 0.29</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/1_1_9_13/2_15_61.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/1_1_9_13/2_15_61.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CTTCCGGGTCCGTTCCGGAAGCCTCTTCCGCCAGAGGTTCCCTTTGCCTTCTAGCAGGAAGTGACGGAGAAAGCCGGGCGCTGATTGGTGAGCTCTGGCCAGGAGCGGAAGCCG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_1_9_13/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_1_9_13/box_2_15_68.png')\"><span class=\"putBar\">contribution</span>: 0.29</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/1_1_9_13/2_15_68.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/1_1_9_13/2_15_68.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CTTCCGGGTCCGTTCCGGAAGCCTCTTCCGCCAGAGGTTCCCTTTGCCTTCTAGCAGGAAGTGACGGAGAAAGCCGGGCGCTGATTGGTGAGCTCTGGCCAGGAGCGGAAGCCGGTGTTTC')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_1_9_13/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    },
+    "mode_43": {
+        "pwms": [
+            "quadruplet_motifs/2_2_5_16/76_1_13.png"
+        ],
+        "labels": [
+            "pattern 2 and 2 are 76 nucleotides apart<br>pattern 2 and 5 are 1 nucleotides apart<br>pattern 5 and 16 are 13 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/2_2_5_16/box_76_1_13.png')\"><span class=\"putBar\">contribution</span>: 0.08</a>",
+                "# occurrences: 22",
+                "<a href=\"singleton_motifs/2_2_5_16/76_1_13.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/2_2_5_16/76_1_13.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CCACCGGAAAGCTGCCGTCAGGCGCTTCCnGCTTCCGGGGCGCACAnTGCCGCAAACAGGAAGTGTGGCGCTTAACGGGAACCGGCGCCCGGAAnGTCAGCGTGTGAAGTAGGCGCTGGCAACGCG')\">consensus string</a>",
+                "--"
+            ]
+        ]
+    },
+    "mode_70": {
+        "pwms": [
+            "quadruplet_motifs/1_7_16_16/21_51_0.png",
+            "quadruplet_motifs/1_7_16_16/29_43_0.png"
+        ],
+        "labels": [
+            "pattern 1 and 7 are 21 nucleotides apart<br>pattern 7 and 16 are 51 nucleotides apart<br>pattern 16 and 16 are 0 nucleotides apart<br>",
+            "pattern 1 and 7 are 29 nucleotides apart<br>pattern 7 and 16 are 43 nucleotides apart<br>pattern 16 and 16 are 0 nucleotides apart<br>"
+        ],
+        "texts": [
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_7_16_16/box_21_51_0.png')\"><span class=\"putBar\">contribution</span>: 0.06</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/1_7_16_16/21_51_0.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/1_7_16_16/21_51_0.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CTTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGATGGCGATGAG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_7_16_16/gaps.png')\">gap histogram</a>"
+            ],
+            [
+                "<a href=\"#5\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_7_16_16/box_29_43_0.png')\"><span class=\"putBar\">contribution</span>: 0.05</a>",
+                "# occurrences: 11",
+                "<a href=\"singleton_motifs/1_7_16_16/29_43_0.meme\">.meme file</a>",
+                "<a href=\"#\" onclick=\"openHighlightPage('quadruplet_motifs/1_7_16_16/29_43_0.csv')\">string highlight</a>",
+                "<a href=\"#3\" onclick=\"openHtmlWindowText('CTTCCGGAACCTTTCTGCATTGCCTTCTGCCCGGACGTGCGGAAGCGAAGGCAGGAAGTGCTTAGCCGGTAGCTTCCGGGTTTCCTGGGCTACTACGATGGCGATGAG')\">consensus string</a>",
+                "<a href=\"#4\" onclick=\"openHtmlWindowImg('quadruplet_motifs/1_7_16_16/gaps.png')\">gap histogram</a>"
+            ]
+        ]
+    }
+}

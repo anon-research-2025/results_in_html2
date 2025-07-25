@@ -1,0 +1,598 @@
+{
+    "mode_3": {
+        "pwms": [
+            "pairs_motifs/4_3/12.png",
+            "pairs_motifs/4_3/17.png",
+            "pairs_motifs/4_3/32.png",
+            "pairs_motifs/4_3/33.png",
+            "pairs_motifs/4_3/34.png"
+        ],
+        "labels": [
+            "pattern 4 and 3 are 7 nucleotides apart",
+            "pattern 4 and 3 are 12 nucleotides apart",
+            "pattern 4 and 3 are 27 nucleotides apart",
+            "pattern 4 and 3 are 28 nucleotides apart",
+            "pattern 4 and 3 are 29 nucleotides apart"
+        ],
+        "texts": [
+            [
+                "P-value: 3.7e-9",
+                "# occurrences: 63",
+                "meme_link",
+                "<a href=\"#\" onclick=\"openHighlightPage('pairs_motifs/4_3/12.csv')\">string highlight</a>",
+                "<a href=\"#2\" onclick=\"openHtmlWindow('pairs_motifs/4_3/mode.png', 'P-value: 2.6e-51<br><br><p style=\\'color:#EC771B\\'>Cluster 1: Occuring approximately 4% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 32-bp in between pattern 4 and 3</p><p style=\\'color:#3E359C\\'>Cluster 2: Occuring approximately 19% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 12-bp in between pattern 4 and 3</p><p style=\\'color:#12802E\\'>Cluster 3: Occuring approximately 21% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 34-bp in between pattern 4 and 3</p><p style=\\'color:#6C73C2\\'>Cluster 4: Occuring approximately 28% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 17-bp in between pattern 4 and 3</p><p style=\\'color:#833D73\\'>Cluster 5: Occuring approximately 28% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 33-bp in between pattern 4 and 3</p>')\">clustered view</a>"
+            ],
+            [
+                "P-value: 3.5e-15",
+                "# occurrences: 93",
+                "meme_link",
+                "<a href=\"#\" onclick=\"openHighlightPage('pairs_motifs/4_3/17.csv')\">string highlight</a>",
+                "<a href=\"#2\" onclick=\"openHtmlWindow('pairs_motifs/4_3/mode.png', 'P-value: 2.6e-51<br><br><p style=\\'color:#EC771B\\'>Cluster 1: Occuring approximately 4% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 32-bp in between pattern 4 and 3</p><p style=\\'color:#3E359C\\'>Cluster 2: Occuring approximately 19% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 12-bp in between pattern 4 and 3</p><p style=\\'color:#12802E\\'>Cluster 3: Occuring approximately 21% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 34-bp in between pattern 4 and 3</p><p style=\\'color:#6C73C2\\'>Cluster 4: Occuring approximately 28% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 17-bp in between pattern 4 and 3</p><p style=\\'color:#833D73\\'>Cluster 5: Occuring approximately 28% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 33-bp in between pattern 4 and 3</p>')\">clustered view</a>"
+            ],
+            [
+                "P-value: 1.2e-4",
+                "# occurrences: 13",
+                "meme_link",
+                "<a href=\"#\" onclick=\"openHighlightPage('pairs_motifs/4_3/32.csv')\">string highlight</a>",
+                "<a href=\"#2\" onclick=\"openHtmlWindow('pairs_motifs/4_3/mode.png', 'P-value: 2.6e-51<br><br><p style=\\'color:#EC771B\\'>Cluster 1: Occuring approximately 4% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 32-bp in between pattern 4 and 3</p><p style=\\'color:#3E359C\\'>Cluster 2: Occuring approximately 19% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 12-bp in between pattern 4 and 3</p><p style=\\'color:#12802E\\'>Cluster 3: Occuring approximately 21% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 34-bp in between pattern 4 and 3</p><p style=\\'color:#6C73C2\\'>Cluster 4: Occuring approximately 28% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 17-bp in between pattern 4 and 3</p><p style=\\'color:#833D73\\'>Cluster 5: Occuring approximately 28% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 33-bp in between pattern 4 and 3</p>')\">clustered view</a>"
+            ],
+            [
+                "P-value: 1.4e-14",
+                "# occurrences: 92",
+                "meme_link",
+                "<a href=\"#\" onclick=\"openHighlightPage('pairs_motifs/4_3/33.csv')\">string highlight</a>",
+                "<a href=\"#2\" onclick=\"openHtmlWindow('pairs_motifs/4_3/mode.png', 'P-value: 2.6e-51<br><br><p style=\\'color:#EC771B\\'>Cluster 1: Occuring approximately 4% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 32-bp in between pattern 4 and 3</p><p style=\\'color:#3E359C\\'>Cluster 2: Occuring approximately 19% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 12-bp in between pattern 4 and 3</p><p style=\\'color:#12802E\\'>Cluster 3: Occuring approximately 21% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 34-bp in between pattern 4 and 3</p><p style=\\'color:#6C73C2\\'>Cluster 4: Occuring approximately 28% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 17-bp in between pattern 4 and 3</p><p style=\\'color:#833D73\\'>Cluster 5: Occuring approximately 28% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 33-bp in between pattern 4 and 3</p>')\">clustered view</a>"
+            ],
+            [
+                "P-value: 1.2e-10",
+                "# occurrences: 71",
+                "meme_link",
+                "<a href=\"#\" onclick=\"openHighlightPage('pairs_motifs/4_3/34.csv')\">string highlight</a>",
+                "<a href=\"#2\" onclick=\"openHtmlWindow('pairs_motifs/4_3/mode.png', 'P-value: 2.6e-51<br><br><p style=\\'color:#EC771B\\'>Cluster 1: Occuring approximately 4% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 32-bp in between pattern 4 and 3</p><p style=\\'color:#3E359C\\'>Cluster 2: Occuring approximately 19% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 12-bp in between pattern 4 and 3</p><p style=\\'color:#12802E\\'>Cluster 3: Occuring approximately 21% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 34-bp in between pattern 4 and 3</p><p style=\\'color:#6C73C2\\'>Cluster 4: Occuring approximately 28% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 17-bp in between pattern 4 and 3</p><p style=\\'color:#833D73\\'>Cluster 5: Occuring approximately 28% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 33-bp in between pattern 4 and 3</p>')\">clustered view</a>"
+            ]
+        ]
+    },
+    "mode_6": {
+        "pwms": [
+            "pairs_motifs/4_4/24.png",
+            "pairs_motifs/4_4/25.png"
+        ],
+        "labels": [
+            "pattern 4 and 4 are 19 nucleotides apart",
+            "pattern 4 and 4 are 20 nucleotides apart"
+        ],
+        "texts": [
+            [
+                "P-value: 9.1e-13",
+                "# occurrences: 90",
+                "meme_link",
+                "<a href=\"#\" onclick=\"openHighlightPage('pairs_motifs/4_4/24.csv')\">string highlight</a>",
+                "<a href=\"#2\" onclick=\"openHtmlWindow('pairs_motifs/4_4/mode.png', 'P-value: 1.3e-23<br><br><p style=\\'color:#EC771B\\'>Cluster 1: Occuring approximately 48% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 25-bp in between pattern 4 and 4</p><p style=\\'color:#3E359C\\'>Cluster 2: Occuring approximately 52% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 24-bp in between pattern 4 and 4</p>')\">clustered view</a>"
+            ],
+            [
+                "P-value: 1.5e-11",
+                "# occurrences: 82",
+                "meme_link",
+                "<a href=\"#\" onclick=\"openHighlightPage('pairs_motifs/4_4/25.csv')\">string highlight</a>",
+                "<a href=\"#2\" onclick=\"openHtmlWindow('pairs_motifs/4_4/mode.png', 'P-value: 1.3e-23<br><br><p style=\\'color:#EC771B\\'>Cluster 1: Occuring approximately 48% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 25-bp in between pattern 4 and 4</p><p style=\\'color:#3E359C\\'>Cluster 2: Occuring approximately 52% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 24-bp in between pattern 4 and 4</p>')\">clustered view</a>"
+            ]
+        ]
+    },
+    "mode_1": {
+        "pwms": [
+            "pairs_motifs/3_3/4.png",
+            "pairs_motifs/3_3/9.png",
+            "pairs_motifs/3_3/12.png",
+            "pairs_motifs/3_3/13.png",
+            "pairs_motifs/3_3/14.png",
+            "pairs_motifs/3_3/15.png",
+            "pairs_motifs/3_3/17.png",
+            "pairs_motifs/3_3/22.png",
+            "pairs_motifs/3_3/31.png",
+            "pairs_motifs/3_3/36.png",
+            "pairs_motifs/3_3/39.png",
+            "pairs_motifs/3_3/40.png",
+            "pairs_motifs/3_3/42.png",
+            "pairs_motifs/3_3/61.png",
+            "pairs_motifs/3_3/62.png"
+        ],
+        "labels": [
+            "pattern 3 and 3 are 0 nucleotides apart",
+            "pattern 3 and 3 are 5 nucleotides apart",
+            "pattern 3 and 3 are 8 nucleotides apart",
+            "pattern 3 and 3 are 9 nucleotides apart",
+            "pattern 3 and 3 are 10 nucleotides apart",
+            "pattern 3 and 3 are 11 nucleotides apart",
+            "pattern 3 and 3 are 13 nucleotides apart",
+            "pattern 3 and 3 are 18 nucleotides apart",
+            "pattern 3 and 3 are 27 nucleotides apart",
+            "pattern 3 and 3 are 32 nucleotides apart",
+            "pattern 3 and 3 are 35 nucleotides apart",
+            "pattern 3 and 3 are 36 nucleotides apart",
+            "pattern 3 and 3 are 38 nucleotides apart",
+            "pattern 3 and 3 are 57 nucleotides apart",
+            "pattern 3 and 3 are 58 nucleotides apart"
+        ],
+        "texts": [
+            [
+                "P-value: 2.4e-4",
+                "# occurrences: 12",
+                "meme_link",
+                "<a href=\"#\" onclick=\"openHighlightPage('pairs_motifs/3_3/4.csv')\">string highlight</a>",
+                "<a href=\"#2\" onclick=\"openHtmlWindow('pairs_motifs/3_3/mode.png', 'P-value: 1.9e-103<br><br><p style=\\'color:#EC771B\\'>Cluster 1: Occuring approximately 19% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 61-bp in between pattern 3 and 3</p><p style=\\'color:#3E359C\\'>Cluster 2: Occuring approximately 24% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 38-bp in between pattern 3 and 3</p><p style=\\'color:#12802E\\'>Cluster 3: Occuring approximately 57% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14-bp in between pattern 3 and 3</p>')\">clustered view</a>"
+            ],
+            [
+                "P-value: 1.2e-4",
+                "# occurrences: 27",
+                "meme_link",
+                "<a href=\"#\" onclick=\"openHighlightPage('pairs_motifs/3_3/9.csv')\">string highlight</a>",
+                "<a href=\"#2\" onclick=\"openHtmlWindow('pairs_motifs/3_3/mode.png', 'P-value: 1.9e-103<br><br><p style=\\'color:#EC771B\\'>Cluster 1: Occuring approximately 19% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 61-bp in between pattern 3 and 3</p><p style=\\'color:#3E359C\\'>Cluster 2: Occuring approximately 24% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 38-bp in between pattern 3 and 3</p><p style=\\'color:#12802E\\'>Cluster 3: Occuring approximately 57% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14-bp in between pattern 3 and 3</p>')\">clustered view</a>"
+            ],
+            [
+                "P-value: 9.5e-7",
+                "# occurrences: 44",
+                "meme_link",
+                "<a href=\"#\" onclick=\"openHighlightPage('pairs_motifs/3_3/12.csv')\">string highlight</a>",
+                "<a href=\"#2\" onclick=\"openHtmlWindow('pairs_motifs/3_3/mode.png', 'P-value: 1.9e-103<br><br><p style=\\'color:#EC771B\\'>Cluster 1: Occuring approximately 19% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 61-bp in between pattern 3 and 3</p><p style=\\'color:#3E359C\\'>Cluster 2: Occuring approximately 24% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 38-bp in between pattern 3 and 3</p><p style=\\'color:#12802E\\'>Cluster 3: Occuring approximately 57% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14-bp in between pattern 3 and 3</p>')\">clustered view</a>"
+            ],
+            [
+                "P-value: 7.6e-6",
+                "# occurrences: 37",
+                "meme_link",
+                "<a href=\"#\" onclick=\"openHighlightPage('pairs_motifs/3_3/13.csv')\">string highlight</a>",
+                "<a href=\"#2\" onclick=\"openHtmlWindow('pairs_motifs/3_3/mode.png', 'P-value: 1.9e-103<br><br><p style=\\'color:#EC771B\\'>Cluster 1: Occuring approximately 19% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 61-bp in between pattern 3 and 3</p><p style=\\'color:#3E359C\\'>Cluster 2: Occuring approximately 24% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 38-bp in between pattern 3 and 3</p><p style=\\'color:#12802E\\'>Cluster 3: Occuring approximately 57% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14-bp in between pattern 3 and 3</p>')\">clustered view</a>"
+            ],
+            [
+                "P-value: 1.3e-23",
+                "# occurrences: 132",
+                "meme_link",
+                "<a href=\"#\" onclick=\"openHighlightPage('pairs_motifs/3_3/14.csv')\">string highlight</a>",
+                "<a href=\"#2\" onclick=\"openHtmlWindow('pairs_motifs/3_3/mode.png', 'P-value: 1.9e-103<br><br><p style=\\'color:#EC771B\\'>Cluster 1: Occuring approximately 19% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 61-bp in between pattern 3 and 3</p><p style=\\'color:#3E359C\\'>Cluster 2: Occuring approximately 24% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 38-bp in between pattern 3 and 3</p><p style=\\'color:#12802E\\'>Cluster 3: Occuring approximately 57% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14-bp in between pattern 3 and 3</p>')\">clustered view</a>"
+            ],
+            [
+                "P-value: 1.8e-12",
+                "# occurrences: 80",
+                "meme_link",
+                "<a href=\"#\" onclick=\"openHighlightPage('pairs_motifs/3_3/15.csv')\">string highlight</a>",
+                "<a href=\"#2\" onclick=\"openHtmlWindow('pairs_motifs/3_3/mode.png', 'P-value: 1.9e-103<br><br><p style=\\'color:#EC771B\\'>Cluster 1: Occuring approximately 19% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 61-bp in between pattern 3 and 3</p><p style=\\'color:#3E359C\\'>Cluster 2: Occuring approximately 24% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 38-bp in between pattern 3 and 3</p><p style=\\'color:#12802E\\'>Cluster 3: Occuring approximately 57% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14-bp in between pattern 3 and 3</p>')\">clustered view</a>"
+            ],
+            [
+                "P-value: 6.1e-5",
+                "# occurrences: 14",
+                "meme_link",
+                "<a href=\"#\" onclick=\"openHighlightPage('pairs_motifs/3_3/17.csv')\">string highlight</a>",
+                "<a href=\"#2\" onclick=\"openHtmlWindow('pairs_motifs/3_3/mode.png', 'P-value: 1.9e-103<br><br><p style=\\'color:#EC771B\\'>Cluster 1: Occuring approximately 19% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 61-bp in between pattern 3 and 3</p><p style=\\'color:#3E359C\\'>Cluster 2: Occuring approximately 24% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 38-bp in between pattern 3 and 3</p><p style=\\'color:#12802E\\'>Cluster 3: Occuring approximately 57% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14-bp in between pattern 3 and 3</p>')\">clustered view</a>"
+            ],
+            [
+                "P-value: 4.9e-4",
+                "# occurrences: 11",
+                "meme_link",
+                "<a href=\"#\" onclick=\"openHighlightPage('pairs_motifs/3_3/22.csv')\">string highlight</a>",
+                "<a href=\"#2\" onclick=\"openHtmlWindow('pairs_motifs/3_3/mode.png', 'P-value: 1.9e-103<br><br><p style=\\'color:#EC771B\\'>Cluster 1: Occuring approximately 19% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 61-bp in between pattern 3 and 3</p><p style=\\'color:#3E359C\\'>Cluster 2: Occuring approximately 24% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 38-bp in between pattern 3 and 3</p><p style=\\'color:#12802E\\'>Cluster 3: Occuring approximately 57% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14-bp in between pattern 3 and 3</p>')\">clustered view</a>"
+            ],
+            [
+                "P-value: 2.4e-4",
+                "# occurrences: 30",
+                "meme_link",
+                "<a href=\"#\" onclick=\"openHighlightPage('pairs_motifs/3_3/31.csv')\">string highlight</a>",
+                "<a href=\"#2\" onclick=\"openHtmlWindow('pairs_motifs/3_3/mode.png', 'P-value: 1.9e-103<br><br><p style=\\'color:#EC771B\\'>Cluster 1: Occuring approximately 19% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 61-bp in between pattern 3 and 3</p><p style=\\'color:#3E359C\\'>Cluster 2: Occuring approximately 24% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 38-bp in between pattern 3 and 3</p><p style=\\'color:#12802E\\'>Cluster 3: Occuring approximately 57% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14-bp in between pattern 3 and 3</p>')\">clustered view</a>"
+            ],
+            [
+                "P-value: 1.5e-5",
+                "# occurrences: 16",
+                "meme_link",
+                "<a href=\"#\" onclick=\"openHighlightPage('pairs_motifs/3_3/36.csv')\">string highlight</a>",
+                "<a href=\"#2\" onclick=\"openHtmlWindow('pairs_motifs/3_3/mode.png', 'P-value: 1.9e-103<br><br><p style=\\'color:#EC771B\\'>Cluster 1: Occuring approximately 19% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 61-bp in between pattern 3 and 3</p><p style=\\'color:#3E359C\\'>Cluster 2: Occuring approximately 24% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 38-bp in between pattern 3 and 3</p><p style=\\'color:#12802E\\'>Cluster 3: Occuring approximately 57% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14-bp in between pattern 3 and 3</p>')\">clustered view</a>"
+            ],
+            [
+                "P-value: 1.2e-4",
+                "# occurrences: 26",
+                "meme_link",
+                "<a href=\"#\" onclick=\"openHighlightPage('pairs_motifs/3_3/39.csv')\">string highlight</a>",
+                "<a href=\"#2\" onclick=\"openHtmlWindow('pairs_motifs/3_3/mode.png', 'P-value: 1.9e-103<br><br><p style=\\'color:#EC771B\\'>Cluster 1: Occuring approximately 19% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 61-bp in between pattern 3 and 3</p><p style=\\'color:#3E359C\\'>Cluster 2: Occuring approximately 24% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 38-bp in between pattern 3 and 3</p><p style=\\'color:#12802E\\'>Cluster 3: Occuring approximately 57% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14-bp in between pattern 3 and 3</p>')\">clustered view</a>"
+            ],
+            [
+                "P-value: 3.7e-9",
+                "# occurrences: 66",
+                "meme_link",
+                "<a href=\"#\" onclick=\"openHighlightPage('pairs_motifs/3_3/40.csv')\">string highlight</a>",
+                "<a href=\"#2\" onclick=\"openHtmlWindow('pairs_motifs/3_3/mode.png', 'P-value: 1.9e-103<br><br><p style=\\'color:#EC771B\\'>Cluster 1: Occuring approximately 19% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 61-bp in between pattern 3 and 3</p><p style=\\'color:#3E359C\\'>Cluster 2: Occuring approximately 24% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 38-bp in between pattern 3 and 3</p><p style=\\'color:#12802E\\'>Cluster 3: Occuring approximately 57% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14-bp in between pattern 3 and 3</p>')\">clustered view</a>"
+            ],
+            [
+                "P-value: 4.9e-4",
+                "# occurrences: 11",
+                "meme_link",
+                "<a href=\"#\" onclick=\"openHighlightPage('pairs_motifs/3_3/42.csv')\">string highlight</a>",
+                "<a href=\"#2\" onclick=\"openHtmlWindow('pairs_motifs/3_3/mode.png', 'P-value: 1.9e-103<br><br><p style=\\'color:#EC771B\\'>Cluster 1: Occuring approximately 19% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 61-bp in between pattern 3 and 3</p><p style=\\'color:#3E359C\\'>Cluster 2: Occuring approximately 24% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 38-bp in between pattern 3 and 3</p><p style=\\'color:#12802E\\'>Cluster 3: Occuring approximately 57% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14-bp in between pattern 3 and 3</p>')\">clustered view</a>"
+            ],
+            [
+                "P-value: 3.6e-12",
+                "# occurrences: 72",
+                "meme_link",
+                "<a href=\"#\" onclick=\"openHighlightPage('pairs_motifs/3_3/61.csv')\">string highlight</a>",
+                "<a href=\"#2\" onclick=\"openHtmlWindow('pairs_motifs/3_3/mode.png', 'P-value: 1.9e-103<br><br><p style=\\'color:#EC771B\\'>Cluster 1: Occuring approximately 19% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 61-bp in between pattern 3 and 3</p><p style=\\'color:#3E359C\\'>Cluster 2: Occuring approximately 24% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 38-bp in between pattern 3 and 3</p><p style=\\'color:#12802E\\'>Cluster 3: Occuring approximately 57% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14-bp in between pattern 3 and 3</p>')\">clustered view</a>"
+            ],
+            [
+                "P-value: 4.8e-7",
+                "# occurrences: 46",
+                "meme_link",
+                "<a href=\"#\" onclick=\"openHighlightPage('pairs_motifs/3_3/62.csv')\">string highlight</a>",
+                "<a href=\"#2\" onclick=\"openHtmlWindow('pairs_motifs/3_3/mode.png', 'P-value: 1.9e-103<br><br><p style=\\'color:#EC771B\\'>Cluster 1: Occuring approximately 19% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 61-bp in between pattern 3 and 3</p><p style=\\'color:#3E359C\\'>Cluster 2: Occuring approximately 24% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 38-bp in between pattern 3 and 3</p><p style=\\'color:#12802E\\'>Cluster 3: Occuring approximately 57% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14-bp in between pattern 3 and 3</p>')\">clustered view</a>"
+            ]
+        ]
+    },
+    "mode_4": {
+        "pwms": [
+            "pairs_motifs/4_2/14.png",
+            "pairs_motifs/4_2/15.png",
+            "pairs_motifs/4_2/16.png",
+            "pairs_motifs/4_2/47.png"
+        ],
+        "labels": [
+            "pattern 4 and 2 are 12 nucleotides apart",
+            "pattern 4 and 2 are 13 nucleotides apart",
+            "pattern 4 and 2 are 14 nucleotides apart",
+            "pattern 4 and 2 are 45 nucleotides apart"
+        ],
+        "texts": [
+            [
+                "P-value: 2.4e-4",
+                "# occurrences: 12",
+                "meme_link",
+                "<a href=\"#\" onclick=\"openHighlightPage('pairs_motifs/4_2/14.csv')\">string highlight</a>",
+                "<a href=\"#2\" onclick=\"openHtmlWindow('pairs_motifs/4_2/mode.png', 'P-value: 2.7e-45<br><br><p style=\\'color:#EC771B\\'>Cluster 1: Occuring approximately 4% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14-bp in between pattern 4 and 2</p><p style=\\'color:#3E359C\\'>Cluster 2: Occuring approximately 28% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 47-bp in between pattern 4 and 2</p><p style=\\'color:#12802E\\'>Cluster 3: Occuring approximately 34% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 16-bp in between pattern 4 and 2</p><p style=\\'color:#6C73C2\\'>Cluster 4: Occuring approximately 34% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 15-bp in between pattern 4 and 2</p>')\">clustered view</a>"
+            ],
+            [
+                "P-value: 3.5e-15",
+                "# occurrences: 95",
+                "meme_link",
+                "<a href=\"#\" onclick=\"openHighlightPage('pairs_motifs/4_2/15.csv')\">string highlight</a>",
+                "<a href=\"#2\" onclick=\"openHtmlWindow('pairs_motifs/4_2/mode.png', 'P-value: 2.7e-45<br><br><p style=\\'color:#EC771B\\'>Cluster 1: Occuring approximately 4% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14-bp in between pattern 4 and 2</p><p style=\\'color:#3E359C\\'>Cluster 2: Occuring approximately 28% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 47-bp in between pattern 4 and 2</p><p style=\\'color:#12802E\\'>Cluster 3: Occuring approximately 34% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 16-bp in between pattern 4 and 2</p><p style=\\'color:#6C73C2\\'>Cluster 4: Occuring approximately 34% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 15-bp in between pattern 4 and 2</p>')\">clustered view</a>"
+            ],
+            [
+                "P-value: 3.5e-15",
+                "# occurrences: 96",
+                "meme_link",
+                "<a href=\"#\" onclick=\"openHighlightPage('pairs_motifs/4_2/16.csv')\">string highlight</a>",
+                "<a href=\"#2\" onclick=\"openHtmlWindow('pairs_motifs/4_2/mode.png', 'P-value: 2.7e-45<br><br><p style=\\'color:#EC771B\\'>Cluster 1: Occuring approximately 4% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14-bp in between pattern 4 and 2</p><p style=\\'color:#3E359C\\'>Cluster 2: Occuring approximately 28% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 47-bp in between pattern 4 and 2</p><p style=\\'color:#12802E\\'>Cluster 3: Occuring approximately 34% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 16-bp in between pattern 4 and 2</p><p style=\\'color:#6C73C2\\'>Cluster 4: Occuring approximately 34% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 15-bp in between pattern 4 and 2</p>')\">clustered view</a>"
+            ],
+            [
+                "P-value: 9.1e-13",
+                "# occurrences: 79",
+                "meme_link",
+                "<a href=\"#\" onclick=\"openHighlightPage('pairs_motifs/4_2/47.csv')\">string highlight</a>",
+                "<a href=\"#2\" onclick=\"openHtmlWindow('pairs_motifs/4_2/mode.png', 'P-value: 2.7e-45<br><br><p style=\\'color:#EC771B\\'>Cluster 1: Occuring approximately 4% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14-bp in between pattern 4 and 2</p><p style=\\'color:#3E359C\\'>Cluster 2: Occuring approximately 28% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 47-bp in between pattern 4 and 2</p><p style=\\'color:#12802E\\'>Cluster 3: Occuring approximately 34% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 16-bp in between pattern 4 and 2</p><p style=\\'color:#6C73C2\\'>Cluster 4: Occuring approximately 34% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 15-bp in between pattern 4 and 2</p>')\">clustered view</a>"
+            ]
+        ]
+    },
+    "mode_7": {
+        "pwms": [
+            "pairs_motifs/3_2/7.png",
+            "pairs_motifs/3_2/23.png"
+        ],
+        "labels": [
+            "pattern 3 and 2 are 6 nucleotides apart",
+            "pattern 3 and 2 are 22 nucleotides apart"
+        ],
+        "texts": [
+            [
+                "P-value: 1.2e-4",
+                "# occurrences: 25",
+                "meme_link",
+                "<a href=\"#\" onclick=\"openHighlightPage('pairs_motifs/3_2/7.csv')\">string highlight</a>",
+                "<a href=\"#2\" onclick=\"openHtmlWindow('pairs_motifs/3_2/mode.png', 'P-value: 1.3e-20<br><br><p style=\\'color:#EC771B\\'>Cluster 1: Occuring approximately 19% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7-bp in between pattern 3 and 2</p><p style=\\'color:#3E359C\\'>Cluster 2: Occuring approximately 81% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 23-bp in between pattern 3 and 2</p>')\">clustered view</a>"
+            ],
+            [
+                "P-value: 1.1e-16",
+                "# occurrences: 105",
+                "meme_link",
+                "<a href=\"#\" onclick=\"openHighlightPage('pairs_motifs/3_2/23.csv')\">string highlight</a>",
+                "<a href=\"#2\" onclick=\"openHtmlWindow('pairs_motifs/3_2/mode.png', 'P-value: 1.3e-20<br><br><p style=\\'color:#EC771B\\'>Cluster 1: Occuring approximately 19% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7-bp in between pattern 3 and 2</p><p style=\\'color:#3E359C\\'>Cluster 2: Occuring approximately 81% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 23-bp in between pattern 3 and 2</p>')\">clustered view</a>"
+            ]
+        ]
+    },
+    "mode_9": {
+        "pwms": [
+            "pairs_motifs/3_4/20.png",
+            "pairs_motifs/3_4/21.png"
+        ],
+        "labels": [
+            "pattern 3 and 4 are 16 nucleotides apart",
+            "pattern 3 and 4 are 17 nucleotides apart"
+        ],
+        "texts": [
+            [
+                "P-value: 1.2e-4",
+                "# occurrences: 33",
+                "meme_link",
+                "<a href=\"#\" onclick=\"openHighlightPage('pairs_motifs/3_4/20.csv')\">string highlight</a>",
+                "<a href=\"#2\" onclick=\"openHtmlWindow('pairs_motifs/3_4/mode.png', 'P-value: 2.2e-16<br><br><p style=\\'color:#EC771B\\'>Cluster 1: Occuring approximately 30% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 20-bp in between pattern 3 and 4</p><p style=\\'color:#3E359C\\'>Cluster 2: Occuring approximately 70% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 21-bp in between pattern 3 and 4</p>')\">clustered view</a>"
+            ],
+            [
+                "P-value: 1.8e-12",
+                "# occurrences: 78",
+                "meme_link",
+                "<a href=\"#\" onclick=\"openHighlightPage('pairs_motifs/3_4/21.csv')\">string highlight</a>",
+                "<a href=\"#2\" onclick=\"openHtmlWindow('pairs_motifs/3_4/mode.png', 'P-value: 2.2e-16<br><br><p style=\\'color:#EC771B\\'>Cluster 1: Occuring approximately 30% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 20-bp in between pattern 3 and 4</p><p style=\\'color:#3E359C\\'>Cluster 2: Occuring approximately 70% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 21-bp in between pattern 3 and 4</p>')\">clustered view</a>"
+            ]
+        ]
+    },
+    "mode_2": {
+        "pwms": [
+            "pairs_motifs/4_1/19.png",
+            "pairs_motifs/4_1/20.png",
+            "pairs_motifs/4_1/21.png",
+            "pairs_motifs/4_1/27.png",
+            "pairs_motifs/4_1/51.png",
+            "pairs_motifs/4_1/52.png"
+        ],
+        "labels": [
+            "pattern 4 and 1 are 17 nucleotides apart",
+            "pattern 4 and 1 are 18 nucleotides apart",
+            "pattern 4 and 1 are 19 nucleotides apart",
+            "pattern 4 and 1 are 25 nucleotides apart",
+            "pattern 4 and 1 are 49 nucleotides apart",
+            "pattern 4 and 1 are 50 nucleotides apart"
+        ],
+        "texts": [
+            [
+                "P-value: 9.5e-7",
+                "# occurrences: 37",
+                "meme_link",
+                "<a href=\"#\" onclick=\"openHighlightPage('pairs_motifs/4_1/19.csv')\">string highlight</a>",
+                "<a href=\"#2\" onclick=\"openHtmlWindow('pairs_motifs/4_1/mode.png', 'P-value: 1.5e-58<br><br><p style=\\'color:#EC771B\\'>Cluster 1: Occuring approximately 33% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 52-bp in between pattern 4 and 1</p><p style=\\'color:#3E359C\\'>Cluster 2: Occuring approximately 67% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 21-bp in between pattern 4 and 1</p>')\">clustered view</a>"
+            ],
+            [
+                "P-value: 3.5e-18",
+                "# occurrences: 108",
+                "meme_link",
+                "<a href=\"#\" onclick=\"openHighlightPage('pairs_motifs/4_1/20.csv')\">string highlight</a>",
+                "<a href=\"#2\" onclick=\"openHtmlWindow('pairs_motifs/4_1/mode.png', 'P-value: 1.5e-58<br><br><p style=\\'color:#EC771B\\'>Cluster 1: Occuring approximately 33% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 52-bp in between pattern 4 and 1</p><p style=\\'color:#3E359C\\'>Cluster 2: Occuring approximately 67% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 21-bp in between pattern 4 and 1</p>')\">clustered view</a>"
+            ],
+            [
+                "P-value: 5.7e-14",
+                "# occurrences: 85",
+                "meme_link",
+                "<a href=\"#\" onclick=\"openHighlightPage('pairs_motifs/4_1/21.csv')\">string highlight</a>",
+                "<a href=\"#2\" onclick=\"openHtmlWindow('pairs_motifs/4_1/mode.png', 'P-value: 1.5e-58<br><br><p style=\\'color:#EC771B\\'>Cluster 1: Occuring approximately 33% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 52-bp in between pattern 4 and 1</p><p style=\\'color:#3E359C\\'>Cluster 2: Occuring approximately 67% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 21-bp in between pattern 4 and 1</p>')\">clustered view</a>"
+            ],
+            [
+                "P-value: 4.9e-4",
+                "# occurrences: 11",
+                "meme_link",
+                "<a href=\"#\" onclick=\"openHighlightPage('pairs_motifs/4_1/27.csv')\">string highlight</a>",
+                "<a href=\"#2\" onclick=\"openHtmlWindow('pairs_motifs/4_1/mode.png', 'P-value: 1.5e-58<br><br><p style=\\'color:#EC771B\\'>Cluster 1: Occuring approximately 33% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 52-bp in between pattern 4 and 1</p><p style=\\'color:#3E359C\\'>Cluster 2: Occuring approximately 67% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 21-bp in between pattern 4 and 1</p>')\">clustered view</a>"
+            ],
+            [
+                "P-value: 2.4e-4",
+                "# occurrences: 30",
+                "meme_link",
+                "<a href=\"#\" onclick=\"openHighlightPage('pairs_motifs/4_1/51.csv')\">string highlight</a>",
+                "<a href=\"#2\" onclick=\"openHtmlWindow('pairs_motifs/4_1/mode.png', 'P-value: 1.5e-58<br><br><p style=\\'color:#EC771B\\'>Cluster 1: Occuring approximately 33% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 52-bp in between pattern 4 and 1</p><p style=\\'color:#3E359C\\'>Cluster 2: Occuring approximately 67% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 21-bp in between pattern 4 and 1</p>')\">clustered view</a>"
+            ],
+            [
+                "P-value: 7.1e-15",
+                "# occurrences: 87",
+                "meme_link",
+                "<a href=\"#\" onclick=\"openHighlightPage('pairs_motifs/4_1/52.csv')\">string highlight</a>",
+                "<a href=\"#2\" onclick=\"openHtmlWindow('pairs_motifs/4_1/mode.png', 'P-value: 1.5e-58<br><br><p style=\\'color:#EC771B\\'>Cluster 1: Occuring approximately 33% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 52-bp in between pattern 4 and 1</p><p style=\\'color:#3E359C\\'>Cluster 2: Occuring approximately 67% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 21-bp in between pattern 4 and 1</p>')\">clustered view</a>"
+            ]
+        ]
+    },
+    "mode_8": {
+        "pwms": [
+            "pairs_motifs/3_5/1.png",
+            "pairs_motifs/3_5/48.png"
+        ],
+        "labels": [
+            "pattern 3 and 5 are 0 nucleotides apart",
+            "pattern 3 and 5 are 47 nucleotides apart"
+        ],
+        "texts": [
+            [
+                "P-value: 6.0e-8",
+                "# occurrences: 61",
+                "meme_link",
+                "<a href=\"#\" onclick=\"openHighlightPage('pairs_motifs/3_5/1.csv')\">string highlight</a>",
+                "<a href=\"#2\" onclick=\"openHtmlWindow('pairs_motifs/3_5/mode.png', 'P-value: 2.8e-17<br><br><p style=\\'color:#EC771B\\'>Cluster 1: Occuring approximately 48% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1-bp in between pattern 3 and 5</p><p style=\\'color:#3E359C\\'>Cluster 2: Occuring approximately 52% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 48-bp in between pattern 3 and 5</p>')\">clustered view</a>"
+            ],
+            [
+                "P-value: 4.7e-10",
+                "# occurrences: 67",
+                "meme_link",
+                "<a href=\"#\" onclick=\"openHighlightPage('pairs_motifs/3_5/48.csv')\">string highlight</a>",
+                "<a href=\"#2\" onclick=\"openHtmlWindow('pairs_motifs/3_5/mode.png', 'P-value: 2.8e-17<br><br><p style=\\'color:#EC771B\\'>Cluster 1: Occuring approximately 48% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1-bp in between pattern 3 and 5</p><p style=\\'color:#3E359C\\'>Cluster 2: Occuring approximately 52% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 48-bp in between pattern 3 and 5</p>')\">clustered view</a>"
+            ]
+        ]
+    },
+    "mode_12": {
+        "pwms": [
+            "pairs_motifs/4_6/16.png",
+            "pairs_motifs/4_6/31.png"
+        ],
+        "labels": [
+            "pattern 4 and 6 are 14 nucleotides apart",
+            "pattern 4 and 6 are 29 nucleotides apart"
+        ],
+        "texts": [
+            [
+                "P-value: 4.9e-4",
+                "# occurrences: 11",
+                "meme_link",
+                "<a href=\"#\" onclick=\"openHighlightPage('pairs_motifs/4_6/16.csv')\">string highlight</a>",
+                "<a href=\"#2\" onclick=\"openHtmlWindow('pairs_motifs/4_6/mode.png', 'P-value: 4.7e-10<br><br><p style=\\'color:#EC771B\\'>Cluster 1: Occuring approximately 24% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 16-bp in between pattern 4 and 6</p><p style=\\'color:#3E359C\\'>Cluster 2: Occuring approximately 76% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 31-bp in between pattern 4 and 6</p>')\">clustered view</a>"
+            ],
+            [
+                "P-value: 9.5e-7",
+                "# occurrences: 34",
+                "meme_link",
+                "<a href=\"#\" onclick=\"openHighlightPage('pairs_motifs/4_6/31.csv')\">string highlight</a>",
+                "<a href=\"#2\" onclick=\"openHtmlWindow('pairs_motifs/4_6/mode.png', 'P-value: 4.7e-10<br><br><p style=\\'color:#EC771B\\'>Cluster 1: Occuring approximately 24% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 16-bp in between pattern 4 and 6</p><p style=\\'color:#3E359C\\'>Cluster 2: Occuring approximately 76% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 31-bp in between pattern 4 and 6</p>')\">clustered view</a>"
+            ]
+        ]
+    },
+    "mode_5": {
+        "pwms": [
+            "pairs_motifs/3_1/8.png",
+            "pairs_motifs/3_1/11.png",
+            "pairs_motifs/3_1/27.png",
+            "pairs_motifs/3_1/28.png",
+            "pairs_motifs/3_1/55.png"
+        ],
+        "labels": [
+            "pattern 3 and 1 are 7 nucleotides apart",
+            "pattern 3 and 1 are 10 nucleotides apart",
+            "pattern 3 and 1 are 26 nucleotides apart",
+            "pattern 3 and 1 are 27 nucleotides apart",
+            "pattern 3 and 1 are 54 nucleotides apart"
+        ],
+        "texts": [
+            [
+                "P-value: 4.9e-4",
+                "# occurrences: 24",
+                "meme_link",
+                "<a href=\"#\" onclick=\"openHighlightPage('pairs_motifs/3_1/8.csv')\">string highlight</a>",
+                "<a href=\"#2\" onclick=\"openHtmlWindow('pairs_motifs/3_1/mode.png', 'P-value: 1.9e-31<br><br><p style=\\'color:#EC771B\\'>Cluster 1: Occuring approximately 6% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11-bp in between pattern 3 and 1</p><p style=\\'color:#3E359C\\'>Cluster 2: Occuring approximately 8% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 55-bp in between pattern 3 and 1</p><p style=\\'color:#12802E\\'>Cluster 3: Occuring approximately 14% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8-bp in between pattern 3 and 1</p><p style=\\'color:#6C73C2\\'>Cluster 4: Occuring approximately 17% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 27-bp in between pattern 3 and 1</p><p style=\\'color:#833D73\\'>Cluster 5: Occuring approximately 55% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 28-bp in between pattern 3 and 1</p>')\">clustered view</a>"
+            ],
+            [
+                "P-value: 4.9e-4",
+                "# occurrences: 11",
+                "meme_link",
+                "<a href=\"#\" onclick=\"openHighlightPage('pairs_motifs/3_1/11.csv')\">string highlight</a>",
+                "<a href=\"#2\" onclick=\"openHtmlWindow('pairs_motifs/3_1/mode.png', 'P-value: 1.9e-31<br><br><p style=\\'color:#EC771B\\'>Cluster 1: Occuring approximately 6% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11-bp in between pattern 3 and 1</p><p style=\\'color:#3E359C\\'>Cluster 2: Occuring approximately 8% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 55-bp in between pattern 3 and 1</p><p style=\\'color:#12802E\\'>Cluster 3: Occuring approximately 14% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8-bp in between pattern 3 and 1</p><p style=\\'color:#6C73C2\\'>Cluster 4: Occuring approximately 17% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 27-bp in between pattern 3 and 1</p><p style=\\'color:#833D73\\'>Cluster 5: Occuring approximately 55% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 28-bp in between pattern 3 and 1</p>')\">clustered view</a>"
+            ],
+            [
+                "P-value: 4.9e-4",
+                "# occurrences: 30",
+                "meme_link",
+                "<a href=\"#\" onclick=\"openHighlightPage('pairs_motifs/3_1/27.csv')\">string highlight</a>",
+                "<a href=\"#2\" onclick=\"openHtmlWindow('pairs_motifs/3_1/mode.png', 'P-value: 1.9e-31<br><br><p style=\\'color:#EC771B\\'>Cluster 1: Occuring approximately 6% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11-bp in between pattern 3 and 1</p><p style=\\'color:#3E359C\\'>Cluster 2: Occuring approximately 8% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 55-bp in between pattern 3 and 1</p><p style=\\'color:#12802E\\'>Cluster 3: Occuring approximately 14% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8-bp in between pattern 3 and 1</p><p style=\\'color:#6C73C2\\'>Cluster 4: Occuring approximately 17% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 27-bp in between pattern 3 and 1</p><p style=\\'color:#833D73\\'>Cluster 5: Occuring approximately 55% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 28-bp in between pattern 3 and 1</p>')\">clustered view</a>"
+            ],
+            [
+                "P-value: 2.8e-17",
+                "# occurrences: 98",
+                "meme_link",
+                "<a href=\"#\" onclick=\"openHighlightPage('pairs_motifs/3_1/28.csv')\">string highlight</a>",
+                "<a href=\"#2\" onclick=\"openHtmlWindow('pairs_motifs/3_1/mode.png', 'P-value: 1.9e-31<br><br><p style=\\'color:#EC771B\\'>Cluster 1: Occuring approximately 6% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11-bp in between pattern 3 and 1</p><p style=\\'color:#3E359C\\'>Cluster 2: Occuring approximately 8% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 55-bp in between pattern 3 and 1</p><p style=\\'color:#12802E\\'>Cluster 3: Occuring approximately 14% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8-bp in between pattern 3 and 1</p><p style=\\'color:#6C73C2\\'>Cluster 4: Occuring approximately 17% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 27-bp in between pattern 3 and 1</p><p style=\\'color:#833D73\\'>Cluster 5: Occuring approximately 55% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 28-bp in between pattern 3 and 1</p>')\">clustered view</a>"
+            ],
+            [
+                "P-value: 6.1e-5",
+                "# occurrences: 14",
+                "meme_link",
+                "<a href=\"#\" onclick=\"openHighlightPage('pairs_motifs/3_1/55.csv')\">string highlight</a>",
+                "<a href=\"#2\" onclick=\"openHtmlWindow('pairs_motifs/3_1/mode.png', 'P-value: 1.9e-31<br><br><p style=\\'color:#EC771B\\'>Cluster 1: Occuring approximately 6% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11-bp in between pattern 3 and 1</p><p style=\\'color:#3E359C\\'>Cluster 2: Occuring approximately 8% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 55-bp in between pattern 3 and 1</p><p style=\\'color:#12802E\\'>Cluster 3: Occuring approximately 14% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8-bp in between pattern 3 and 1</p><p style=\\'color:#6C73C2\\'>Cluster 4: Occuring approximately 17% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 27-bp in between pattern 3 and 1</p><p style=\\'color:#833D73\\'>Cluster 5: Occuring approximately 55% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 28-bp in between pattern 3 and 1</p>')\">clustered view</a>"
+            ]
+        ]
+    },
+    "mode_11": {
+        "pwms": [
+            "pairs_motifs/3_6/7.png"
+        ],
+        "labels": [
+            "pattern 3 and 6 are 6 nucleotides apart"
+        ],
+        "texts": [
+            [
+                "P-value: 2.3e-10",
+                "# occurrences: 59",
+                "meme_link",
+                "<a href=\"#\" onclick=\"openHighlightPage('pairs_motifs/3_6/7.csv')\">string highlight</a>",
+                "<a href=\"#2\" onclick=\"openHtmlWindow('pairs_motifs/3_6/mode.png', 'P-value: 2.3e-10<br><br><p style=\\'color:#EC771B\\'>Cluster 1: Occuring approximately 100% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7-bp in between pattern 3 and 6</p>')\">clustered view</a>"
+            ]
+        ]
+    },
+    "mode_14": {
+        "pwms": [
+            "pairs_motifs/6_3/12.png",
+            "pairs_motifs/6_3/22.png"
+        ],
+        "labels": [
+            "pattern 6 and 3 are 7 nucleotides apart",
+            "pattern 6 and 3 are 17 nucleotides apart"
+        ],
+        "texts": [
+            [
+                "P-value: 4.9e-4",
+                "# occurrences: 11",
+                "meme_link",
+                "<a href=\"#\" onclick=\"openHighlightPage('pairs_motifs/6_3/12.csv')\">string highlight</a>",
+                "<a href=\"#2\" onclick=\"openHtmlWindow('pairs_motifs/6_3/mode.png', 'P-value: 2.4e-7<br><br><p style=\\'color:#EC771B\\'>Cluster 1: Occuring approximately 50% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 12-bp in between pattern 6 and 3</p><p style=\\'color:#3E359C\\'>Cluster 2: Occuring approximately 50% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 22-bp in between pattern 6 and 3</p>')\">clustered view</a>"
+            ],
+            [
+                "P-value: 4.9e-4",
+                "# occurrences: 11",
+                "meme_link",
+                "<a href=\"#\" onclick=\"openHighlightPage('pairs_motifs/6_3/22.csv')\">string highlight</a>",
+                "<a href=\"#2\" onclick=\"openHtmlWindow('pairs_motifs/6_3/mode.png', 'P-value: 2.4e-7<br><br><p style=\\'color:#EC771B\\'>Cluster 1: Occuring approximately 50% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 12-bp in between pattern 6 and 3</p><p style=\\'color:#3E359C\\'>Cluster 2: Occuring approximately 50% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 22-bp in between pattern 6 and 3</p>')\">clustered view</a>"
+            ]
+        ]
+    },
+    "mode_16": {
+        "pwms": [
+            "pairs_motifs/2_3/21.png"
+        ],
+        "labels": [
+            "pattern 2 and 3 are 15 nucleotides apart"
+        ],
+        "texts": [
+            [
+                "P-value: 1.2e-4",
+                "# occurrences: 13",
+                "meme_link",
+                "<a href=\"#\" onclick=\"openHighlightPage('pairs_motifs/2_3/21.csv')\">string highlight</a>",
+                "<a href=\"#2\" onclick=\"openHtmlWindow('pairs_motifs/2_3/mode.png', 'P-value: 1.2e-4<br><br><p style=\\'color:#EC771B\\'>Cluster 1: Occuring approximately 100% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 21-bp in between pattern 2 and 3</p>')\">clustered view</a>"
+            ]
+        ]
+    },
+    "mode_13": {
+        "pwms": [
+            "pairs_motifs/6_2/9.png"
+        ],
+        "labels": [
+            "pattern 6 and 2 are 7 nucleotides apart"
+        ],
+        "texts": [
+            [
+                "P-value: 1.2e-7",
+                "# occurrences: 43",
+                "meme_link",
+                "<a href=\"#\" onclick=\"openHighlightPage('pairs_motifs/6_2/9.csv')\">string highlight</a>",
+                "<a href=\"#2\" onclick=\"openHtmlWindow('pairs_motifs/6_2/mode.png', 'P-value: 1.2e-7<br><br><p style=\\'color:#EC771B\\'>Cluster 1: Occuring approximately 100% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9-bp in between pattern 6 and 2</p>')\">clustered view</a>"
+            ]
+        ]
+    },
+    "mode_15": {
+        "pwms": [
+            "pairs_motifs/6_1/14.png"
+        ],
+        "labels": [
+            "pattern 6 and 1 are 12 nucleotides apart"
+        ],
+        "texts": [
+            [
+                "P-value: 7.6e-6",
+                "# occurrences: 34",
+                "meme_link",
+                "<a href=\"#\" onclick=\"openHighlightPage('pairs_motifs/6_1/14.csv')\">string highlight</a>",
+                "<a href=\"#2\" onclick=\"openHtmlWindow('pairs_motifs/6_1/mode.png', 'P-value: 7.6e-6<br><br><p style=\\'color:#EC771B\\'>Cluster 1: Occuring approximately 100% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14-bp in between pattern 6 and 1</p>')\">clustered view</a>"
+            ]
+        ]
+    },
+    "mode_10": {
+        "pwms": [
+            "pairs_motifs/4_5/20.png"
+        ],
+        "labels": [
+            "pattern 4 and 5 are 18 nucleotides apart"
+        ],
+        "texts": [
+            [
+                "P-value: 2.9e-11",
+                "# occurrences: 68",
+                "meme_link",
+                "<a href=\"#\" onclick=\"openHighlightPage('pairs_motifs/4_5/20.csv')\">string highlight</a>",
+                "<a href=\"#2\" onclick=\"openHtmlWindow('pairs_motifs/4_5/mode.png', 'P-value: 2.9e-11<br><br><p style=\\'color:#EC771B\\'>Cluster 1: Occuring approximately 100% of the time with<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 20-bp in between pattern 4 and 5</p>')\">clustered view</a>"
+            ]
+        ]
+    }
+}

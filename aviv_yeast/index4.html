@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> motifs</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>    
+    <br><br>
+    <div class="wrapper">
+
+        <div id="nav" style="display: flex; justify-content: center;"></div>
+        <br><br><br><br><br>
+        <div class="container">
+            <!-- Image Set 1 -->
+        </div>
+    </div>
+    <script src="scripts4.js"></script>
+    <!-- Modal Structure -->
+    <div id="highlightModal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeModal()">&times;</span>
+            <div id="highlightedSequences"></div>
+        </div>
+    </div>
+
+    <!-- Modal Structure for clustering -->
+    <div id="highlightModal_cluster">
+        <div id="highlightContent">
+            <span class="close" onclick="closeModal_cluster()">&times;</span>
+            <div class="modal-column">
+                <img id="modalImage" src="" alt="Image">
+            </div>
+            <div class="modal-column">
+                <p id="modalText">This is placeholder text. You can replace it with dynamic content as needed.</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal Structure for consensus_str -->
+    <div id="highlightModal_text">
+        <div id="highlightModal_text_content">
+            <span class="close" onclick="closeModal_text()">&times;</span>
+            <div class="modal-column">
+                <p id="modalText1"> This is placeholder text. You can replace it with dynamic content as needed.</p>
+                <button id="copyButton" onclick="copyText()">copy string</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal Structure for just image -->
+    <div id="highlightModal_img">
+        <div id="highlightModal_img_content">
+            <span class="close" onclick="closeModal_img()">&times;</span>
+            <div class="modal-column">
+                <img id="modalImage1" src="" alt="Image">
+            </div>
+        </div>
+    </div>
+</body></html>
